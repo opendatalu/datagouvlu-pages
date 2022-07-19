@@ -6,9 +6,9 @@ description: test
 menu:
   - footer
 reuses:
-  - #transport
+  - \#transport
 datasets:
-  - #transport
+  - \#transport
 ---
 
 Ceci est un test pour le tag #transport
