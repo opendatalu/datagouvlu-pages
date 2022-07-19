@@ -6,10 +6,9 @@ description: test
 menu:
   - footer
 reuses:
-  - \#transport
 datasets:
   - population-aged-30-34-tertiary-educational-attainment-in-2019
-  - \#transport
+  - tag#transport
 ---
 
 Ceci est un test pour le tag #transport
