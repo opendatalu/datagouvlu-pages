@@ -1,4 +1,4 @@
-# datagouvfr-pages
+# datagouvlu-pages
 
 Ce dépôt contient les fichiers qui alimentent [les pages inventaire du portail data.gouv.fr](https://www.data.gouv.fr/fr/pages/thematiques-a-la-une).
 
