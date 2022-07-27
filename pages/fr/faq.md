@@ -2,7 +2,7 @@
 
 <div class="faq-sections">
     <div class="faq-section">
-        <a class="thumbnail" href="/fr/faq/citizen/">
+        <a class="thumbnail" href="/fr/pages/faq/citizen/">
             <div class="caption">
             <h3>Citoyen</h3>
             <p>Les fondamentaux de l'opendata pour les citoyens</p>
@@ -10,7 +10,7 @@
         </a>
     </div>
     <div class="faq-section">
-        <a class="thumbnail" href="/fr/faq/producer/">
+        <a class="thumbnail" href="/fr/pages/faq/producer/">
             <div class="caption">
             <h3>Producteur</h3>
             <p>Que faut-il savoir avant de publier des données ?</p>
@@ -18,7 +18,7 @@
         </a>
     </div>
     <div class="faq-section">
-        <a class="thumbnail" href="/fr/faq/reuser/">
+        <a class="thumbnail" href="/fr/pages/faq/reuser/">
             <div class="caption">
             <h3>Réutilisateur</h3>
             <p>Que faire avec les données ? Avec quels outils ?</p>
@@ -26,7 +26,7 @@
         </a>
     </div>
     <div class="faq-section">
-        <a class="thumbnail" href="/fr/faq/developer/">
+        <a class="thumbnail" href="/fr/pages/faq/developer/">
             <div class="caption">
             <h3>Développeur</h3>
             <p>Comment intéragir avec la plateforme&nbsp;? Avec quelles API&nbsp;?</p>
@@ -34,7 +34,7 @@
         </a>
     </div>
     <div class="faq-section">
-        <a class="thumbnail" href="/fr/faq/system-integrator/">
+        <a class="thumbnail" href="/fr/pages/faq/system-integrator/">
             <div class="caption">
             <h3>Intégrateur</h3>
             <p>Quelles sont les intégrations tierces rendues possibles ?</p>

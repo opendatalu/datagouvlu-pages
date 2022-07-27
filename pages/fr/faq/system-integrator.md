@@ -60,4 +60,4 @@ L’intégration d’un portail open data complet demande des compétences en ad
 Si vous souhaitez néanmoins vous lancer dans cette aventure, vous pouvez commencer par analyser le [code source](https://github.com/opendatateam/udata) ainsi que la [documentation dédiée](http://udata.readthedocs.io/en/latest/). Vous pouvez également venir en [discuter avec la communauté](https://gitter.im/opendatateam/udata) (en anglais).
 
 
-[← Retour à l’accueil de la FAQ](/fr/faq/)
+[← Retour à l’accueil de la FAQ](/fr/pages/faq/)

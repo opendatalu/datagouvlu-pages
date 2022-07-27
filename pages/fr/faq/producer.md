@@ -99,4 +99,4 @@ Préciser ici, de manière optionnelle, l'adresse mail du producteur, si elle es
 
 A l'image des mots clés, qui permettent d'accrocher votre jeu de données à d'autres dimensions, des thématiques sont à votre disposition pour ancrer vos jeux dans les grandes catégories éditoriales présentées à côté du moteur de recherche : Economie et emploi, Environnement, Energie, Transports, etc.
 
-[← Retour à l’accueil de la FAQ](/fr/faq/)
+[← Retour à l’accueil de la FAQ](/fr/pages/faq/)

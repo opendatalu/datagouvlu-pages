@@ -14,4 +14,4 @@ La diversité des champs d’application de la politique d’ouverture des donn�
 
 Les réutilisations publiées sur « data.public.lu » peuvent être des fichiers téléchargées directement (cartes, tableaux, graphiques, etc) sur le site web ou des liens qui redirigent le visiteur à voir la réutilisation (vers le site web de start-ups, l’AppStore, GooglePlay, etc).
 
-[← Retour à l’accueil de la FAQ](/fr/faq/)
+[← Retour à l’accueil de la FAQ](/fr/pages/faq/)

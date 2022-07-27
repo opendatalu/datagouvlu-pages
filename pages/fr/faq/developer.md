@@ -8,4 +8,4 @@ Cette page contiendra bientôt des informations relatives à:
 *   [le code source de la plateforme](https://github.com/opendatalu/)
 *   [l’intégration de données sur votre site](#embed)
 
-[← Retour à l’accueil de la FAQ](/fr/faq/)
+[← Retour à l’accueil de la FAQ](/fr/pages/faq/)

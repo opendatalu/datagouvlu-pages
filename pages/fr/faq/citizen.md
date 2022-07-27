@@ -68,4 +68,4 @@ Vous pouvez signaler sur data.public.lu tout contenu qui vous semble contraire �
 
 Le signalement d’un contenu est notifié au producteur et à sa communauté. Le contenu peut être retiré automatiquement si le nombre de signalements est élevé ou si l'objectif manifeste de la publication est d'optimiser le référencement d'un site tiers (SEO) sans apport de données de qualité. L'éditeur de la plateforme se réserve le droit de modérer à tout moment un contenu qui contreviendrait aux règles de publication et/ou à l'éthique de la plateforme.
 
-[← Retour à l’accueil de la FAQ](/fr/faq/)
+[← Retour à l’accueil de la FAQ](/fr/pages/faq/)
