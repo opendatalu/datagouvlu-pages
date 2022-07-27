@@ -1,47 +1,21 @@
+---
+title: Questions fréquentes
+keywords:
+description: Toutes nos réponses à vos questions sur l'Open Data
+reuses:
+datasets:
+---
+
 # Questions fréquentes
 
-<div class="faq-sections">
-    <div class="faq-section">
-        <a class="thumbnail" href="/fr/pages/faq/citizen/">
-            <div class="caption">
-            <h3>Citoyen</h3>
-            <p>Les fondamentaux de l'opendata pour les citoyens</p>
-            </div>
-        </a>
-    </div>
-    <div class="faq-section">
-        <a class="thumbnail" href="/fr/pages/faq/producer/">
-            <div class="caption">
-            <h3>Producteur</h3>
-            <p>Que faut-il savoir avant de publier des données ?</p>
-            </div>
-        </a>
-    </div>
-    <div class="faq-section">
-        <a class="thumbnail" href="/fr/pages/faq/reuser/">
-            <div class="caption">
-            <h3>Réutilisateur</h3>
-            <p>Que faire avec les données ? Avec quels outils ?</p>
-            </div>
-        </a>
-    </div>
-    <div class="faq-section">
-        <a class="thumbnail" href="/fr/pages/faq/developer/">
-            <div class="caption">
-            <h3>Développeur</h3>
-            <p>Comment intéragir avec la plateforme&nbsp;? Avec quelles API&nbsp;?</p>
-            </div>
-        </a>
-    </div>
-    <div class="faq-section">
-        <a class="thumbnail" href="/fr/pages/faq/system-integrator/">
-            <div class="caption">
-            <h3>Intégrateur</h3>
-            <p>Quelles sont les intégrations tierces rendues possibles ?</p>
-            </div>
-        </a>
-    </div>
-</div>
+En fonction de votre profil : 
+
+- [Citoyen : les fondamentaux de l'opendata](/fr/pages/faq/citizen/)
+- [Producteur : Que faut-il savoir avant de publier des données ?](/fr/pages/faq/producer/)
+- [Réutilisateur : Que faire avec les données ? avec quels outils ?](/fr/pages/faq/reuser/)
+- [Développeur : Comment interagir avec la plateforme ? Avec quelles API ?](/fr/pages/faq/developer/)
+-  [Intégrateur : Quelles sont les intégrations tierces rendues possibles ?](/fr/pages/faq/system-integrator/)
+
 
 Le projet Open Data du gouvernement luxembourgeois fait partie de l'initiative Digital Lëtzebuerg, qui a pour mission d’accompagner l’ouverture des données publiques de l’Etat et des administrations. À ce titre, elle met en oeuvre et anime la plateforme ouverte des données publiques data.public.lu qui héberge les jeux de données et recense leurs réutilisations.
 
