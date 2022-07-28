@@ -5,9 +5,7 @@ keywords:
   - société
 description: Tous les jeux de données et réutilisations en relation avec la population et la société.
 reuses:
-  - tag#society
-  - tag#popuation
-  - tag#societe
+  - topic#population-et-societe
 datasets:
   - tag#society
   - tag#popuation

@@ -5,14 +5,7 @@ keywords:
   - secteur-public
 description: Retrouvez ici les données relatives au gouvernement et au secteur public
 reuses:
-  - tag#government
-  - tag#public-sector
-  - tag#administration
-  - tag#ministere
-  - tag#ministry
-  - tag#election
-  - tag#elections
-  - tag#vote
+  - topic#gouvernement-et-secteur-public
 datasets:
   - tag#government
   - tag#public-sector

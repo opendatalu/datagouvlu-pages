@@ -4,9 +4,7 @@ keywords:
   - météo
 description: Retrouvez ici les données météorologiques du Luxembourg
 reuses:
-  - tag#meteorology
-  - tag#weather
-  - tag#meteo
+  - topic#meteo
 datasets:
   - tag#meteorology
   - tag#weather

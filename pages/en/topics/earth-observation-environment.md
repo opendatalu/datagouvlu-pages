@@ -5,12 +5,7 @@ keywords:
   - environment
 description: Datasets and reuses about earth observation and environment
 reuses:
-  - tag#nature
-  - tag#environnement
-  - tag#environment
-  - tag#geology
-  - tag#protected-sites
-  - tag#biotope-network
+  - topic#observation-de-la-terre-et-environnement
 datasets:
   - tag#nature
   - tag#environnement

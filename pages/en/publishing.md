@@ -1,3 +1,11 @@
+---
+title: Guidelines for the publication of open data in Luxembourg
+keywords:
+description: Guidelines for the publication of open data in Luxembourg
+reuses:
+datasets:
+---
+
 Guidelines for the publication of open data in Luxembourg
 =========================================================
 

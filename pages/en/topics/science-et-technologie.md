@@ -5,11 +5,7 @@ keywords:
   - technology
 description: Datasets and reuses about science and technology
 reuses:
-  - tag#science
-  - tag#technologie
-  - tag#research
-  - tag#recherche
-  - tag#technology
+  - topic#science-et-technologie
 datasets:
   - tag#science
   - tag#technologie

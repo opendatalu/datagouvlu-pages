@@ -6,9 +6,7 @@ keywords:
   - society
 description: Datasets and reuses about population and society
 reuses:
-  - tag#society
-  - tag#popuation
-  - tag#societe
+  - topic#population-et-societe
 datasets:
   - tag#society
   - tag#popuation

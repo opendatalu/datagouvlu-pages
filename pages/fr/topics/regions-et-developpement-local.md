@@ -6,15 +6,7 @@ keywords:
   - communes
 description: Les jeux de données et réutilisations concernant les communes et le dévelopement local et urbain.
 reuses:
-  - tag#development
-  - tag#urban
-  - tag#developpement
-  - tag#urbanisme
-  - tag#communes
-  - tag#region
-  - tag#commune
-  - tag#pag
-  - tag#amenagement
+  - topic#regions-et-developement-local
 datasets:
   - tag#development
   - tag#urban

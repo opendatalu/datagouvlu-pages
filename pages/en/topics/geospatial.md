@@ -4,10 +4,7 @@ keywords:
   - geodata
 description: Geospatial data for Luxembourg and the Greater Region
 reuses:
-  - tag#geodata
-  - tag#inspire
-  - tag#cadastre
-  - tag#topographie
+  - topic#donnees-geospatiales
 datasets:
   - tag#geodata
   - tag#inspire

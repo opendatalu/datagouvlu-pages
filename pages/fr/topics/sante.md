@@ -4,9 +4,7 @@ keywords:
   - santé
 description: Tous les jeux de données et réutilisations en relation avec la santé.
 reuses:
-  - tag#public-health
-  - tag#health
-  - tag#sante
+  - topic#sante
 datasets:
   - tag#public-health
   - tag#health

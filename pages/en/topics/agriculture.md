@@ -6,11 +6,7 @@ keywords:
   - food
 description: Datasets and reuses about agriculture
 reuses:
-  - tag#forestry
-  - tag#agriculture
-  - tag#food
-  - tag#alimentation
-  - tag#sylviculture
+  - topic#agriculture
 datasets:
   - tag#forestry
   - tag#agriculture

@@ -4,8 +4,7 @@ keywords:
   - statistics
 description: Datasets and reuses about statistics
 reuses:
-  - tag#statistics
-  - tag#statistiques
+  - topic#statistiques
 datasets:
   - tag#statistics
   - tag#statistiques

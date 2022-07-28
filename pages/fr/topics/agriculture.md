@@ -6,11 +6,7 @@ keywords:
   - alimentation
 description: Les jeux de données et réutilisations relatifs à l'agriculture
 reuses:
-  - tag#forestry
-  - tag#agriculture
-  - tag#food
-  - tag#alimentation
-  - tag#sylviculture
+  - topic#agriculture
 datasets:
   - tag#forestry
   - tag#agriculture

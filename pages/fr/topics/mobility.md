@@ -7,16 +7,7 @@ keywords:
   - trafic
 description: Les jeux de données relatifs à la Mobilité au Luxembourg
 reuses:
-  - tag#mobility
-  - tag#transport-mobilite
-  - tag#driving 
-  - tag#permis-de-conduire 
-  - tag#driving-license 
-  - tag#its 
-  - tag#trafic 
-  - tag#traffic 
-  - tag#cita 
-  - tag#pch
+  - topic#mobilite
 datasets:
   - tag#mobility
   - tag#transport-mobilite

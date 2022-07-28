@@ -4,8 +4,7 @@ keywords:
   - statistiques
 description: Retrouvez ici les données relatives aux statistiques
 reuses:
-  - tag#statistics
-  - tag#statistiques
+  - topic#statistiques
 datasets:
   - tag#statistics
   - tag#statistiques

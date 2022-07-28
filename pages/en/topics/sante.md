@@ -4,9 +4,7 @@ keywords:
   - Health
 description: Datasets and reuses about health.
 reuses:
-  - tag#public-health
-  - tag#health
-  - tag#sante
+  - topic#sante
 datasets:
   - tag#public-health
   - tag#health

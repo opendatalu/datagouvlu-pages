@@ -4,9 +4,7 @@ keywords:
   - international
 description: Les jeux de données et réutilisations relatifs aux affaires internationales
 reuses:
-  - tag#international-affairs
-  - tag#affaires-internationales
-  - tag#international
+  - topic#affaires-internationales
 datasets:
   - tag#international-affairs
   - tag#affaires-internationales

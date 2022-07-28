@@ -1,3 +1,11 @@
+---
+title: Conditions Générales d’Utilisation de la plateforme
+keywords:
+description: Conditions Générales d’Utilisation de la plateforme
+reuses:
+datasets:
+---
+
 # Conditions Générales d’Utilisation de la plateforme
 
 

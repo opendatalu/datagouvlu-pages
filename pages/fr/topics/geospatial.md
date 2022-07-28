@@ -4,10 +4,7 @@ keywords:
   - géodonnées
 description: Retrouvez ici les données géospatiales du Luxembourg et de la Grande-Région
 reuses:
-  - tag#geodata
-  - tag#inspire
-  - tag#cadastre
-  - tag#topographie
+  - topic#donnees-geospatiales
 datasets:
   - tag#geodata
   - tag#inspire

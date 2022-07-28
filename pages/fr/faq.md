@@ -8,7 +8,7 @@ datasets:
 
 # Questions fréquentes
 
-En fonction de votre profil : 
+Découvrez l'open data en fonction de votre profil : 
 
 - [Citoyen : les fondamentaux de l'opendata](/fr/pages/faq/citizen/)
 - [Producteur : Que faut-il savoir avant de publier des données ?](/fr/pages/faq/producer/)

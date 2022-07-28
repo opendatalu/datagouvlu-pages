@@ -1,3 +1,11 @@
+---
+title: Feuille de route quinquennale pour l'Open Data au Luxembourg
+keywords:
+description: Feuille de route quinquennale pour l'Open Data au Luxembourg
+reuses:
+datasets:
+---
+
 Feuille de route quinquennale pour l'Open Data au Luxembourg
 =====================================
 

@@ -4,9 +4,7 @@ keywords:
   - Weather
 description: Datasets and reuses about meteorological data
 reuses:
-  - tag#meteorology
-  - tag#weather
-  - tag#meteo
+  - topic#meteo
 datasets:
   - tag#meteorology
   - tag#weather

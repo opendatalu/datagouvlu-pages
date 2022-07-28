@@ -5,14 +5,7 @@ keywords:
   - public-sector
 description: Datasets and reuses about the Government and public sector
 reuses:
-  - tag#government
-  - tag#public-sector
-  - tag#administration
-  - tag#ministere
-  - tag#ministry
-  - tag#election
-  - tag#elections
-  - tag#vote
+  - topic#gouvernement-et-secteur-public
 datasets:
   - tag#government
   - tag#public-sector

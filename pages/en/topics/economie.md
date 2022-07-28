@@ -5,13 +5,7 @@ keywords:
   - finance
 description: Datasets and reuses about Economy and finance
 reuses:
-  - tag#emploi
-  - tag#finance
-  - tag#economie
-  - tag#work
-  - tag#employment
-  - tag#economy
-  - tag#travail
+  - topic#economie
 datasets:
   - tag#emploi
   - tag#finance
