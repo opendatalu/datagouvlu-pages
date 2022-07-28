@@ -5,14 +5,7 @@ keywords:
   - climate
 description: Datasets and reuses about environment and climate
 reuses:
-  - tag#environnement
-  - tag#climat
-  - tag#nature
-  - tag#meteorology
-  - tag#weather
-  - tag#pollution
-  - tag#environnement
-  - tag#climate
+  - topic#environnement
 datasets:
   - tag#environnement
   - tag#climat
