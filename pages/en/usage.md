@@ -8,7 +8,7 @@ datasets:
 Guide to the use of data
 ===============================
 
-These usage guidelines are based on goodwill. They do not represent a legal contract, but the State of the Grand Duchy of Luxembourg asks you to follow them if you use the data on this site.
+These usage guidelines are based on goodwill. They do not represent a legal contract, but the Luxembourg government kindly asks you to follow them if you use the data on this site.
 
 Cite sources when it is appropriate to do so.
 --------------------------------------------------
