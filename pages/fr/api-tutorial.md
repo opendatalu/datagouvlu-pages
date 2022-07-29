@@ -1,4 +1,4 @@
-Documentation de l'API
+Tutoriel de l'API
 ======================
 
 Cette page décrit le comportement de l'API gratuite et ouverte de ce site.
@@ -253,4 +253,4 @@ Une fois effectué, vous pouvez vérifier que c'est effectif en envoyant un GET 
                 
                 
 
-Consultez la documentation de référence ci-dessous pour d'autres intéractions avec l'API ou posez-nous vos questions sur le sujet !
+Consultez la [documentation de référence](/en/docapi) pour d'autres interactions avec l'API ou posez-nous vos questions sur le sujet !
