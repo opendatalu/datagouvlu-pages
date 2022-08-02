@@ -5,66 +5,54 @@ description: Stratégie de données ouvertes du Luxembourg
 reuses:
 datasets:
 ---
+# feuille de route à 5 ans pour l'ouverture des données
 
-Stratégie de données ouvertes du Luxembourg
-===============================
+## 2022
 
-Introduction
-------------
+- Portail &amp ; technologie : Mettre à jour le portail national de données ouvertes pour qu'il soit conforme à la version udata 3.0 également utilisée par l'équipe nationale française de données ouvertes en collaboration avec DINUM France.
+- Sensibilisation : Définir avec le Ministère d'Etat des actions à court et moyen terme pour déclencher des diffusions plus conséquentes de données par les acteurs gouvernementaux, à la lumière de la [loi sur l'open data](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/) et de la [loi sur la liberté d'information](https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/jo)
+- Réaliser une étude sur les forces et les faiblesses du portail national (étude de la satisfaction des utilisateurs).
+- Faire en sorte que davantage de données soient ouvertes en offrant un soutien technique et juridique aux propriétaires de données pour qu'ils publient leurs données :
+  - Créer des scripts de moissonnage
+  - Aide à la décision concernant les licences
+  - Considérations sur la protection des données
+- Promouvoir la publication de données ouvertes de meilleure qualité et plus faciles à utiliser,
+- Collaborer avec le programme d'interopérabilité du gouvernement luxembourgeois pour encourager la publication de nouvelles données,
+- Établir des listes de données existantes qui doivent encore être ouvertes et permettre aux citoyens de soumettre des idées pour de nouvelles données à ouvrir,
+- Collaborer avec le programme AI4Gov du gouvernement luxembourgeois pour favoriser la disponibilité d'ensembles de données ouvertes pouvant servir à des fins d'IA,
+- Intégrer des données géographiques liées ou non à INSPIRE, provenant également de la Grande Région, en mettant l'accent sur les données 3D,
+- Améliorer la disponibilité des données sur la santé,
+- Établir et mettre à jour une liste de données identifiées comme des ensembles de données à haute valeur ajoutée,
+- Hackathons et événements :
+  - Hackathon collaboratif sur les données de logement
+  - Cours de formation pour les employés du secteur public
+- Développer des indicateurs clés de performance (KPI) pour suivre les performances des ensembles de données sur le portail national de données ouvertes en ce qui concerne plusieurs dimensions, par exemple :
+  - la disponibilité des données dans des formats lisibles par machine
+  - Qualité des descriptions et des métadonnées
+  - Licences
 
-Dans un effort général pour renforcer la démocratie et se diriger vers une société ouverte prête à faire confiance à ses institutions, le gouvernement luxembourgeois envisage une politique d'ouverture et de transparence accrues. La première étape de cette perspective a été la promotion et le développement d'une société véritablement numérique, un objectif principal de l'initiative nationale Digital Luxembourg. Cela permettra également au Grand-Duché de se développer en tant que pôle européen de compétences numériques et d'activités économiques connexes. Dans ce contexte, les données ouvertes ont été identifiées comme un facteur clé, non seulement pour le gouvernement, mais aussi pour les entreprises et l'ensemble de la société civile.
+## 2023
 
-La présente stratégie couvre le programme national du Luxembourg pour la mise en œuvre de son principe de données ouvertes. Une liste plus détaillée de mesures est reflétée dans la feuille de route nationale sur les données ouvertes.
+- Développement d'une communauté durable autour de l'initiative "Open Data", composée d'organisations actives du secteur public, de citoyens, d'organisations à but non lucratif et d'entreprises. L'idée de cette communauté est de fournir un retour d'information aux producteurs de données, d'accroître la visibilité des ensembles de données et des réutilisations intéressantes, de développer de nouvelles réutilisations et l'entraide,
+- Améliorer la disponibilité des données environnementales,
+- Établir et mettre à jour les listes de données existantes qui doivent encore être ouvertes.
+- Mettre à jour la liste des données identifiées comme des jeux de données à haute valeur ajoutée.
+- Données en temps réel :
+  - Promouvoir et augmenter la visibilité des jeux de données en temps réel et des réutilisations sur le portail.
+  - Identifier les données stratégiques en temps réel qui n'ont pas encore été publiées et soutenir la mise en œuvre et la publication de ces données (les données stratégiques peuvent être identifiées ici dans le cadre des catégories de données à haute valeur ajoutée, elles peuvent par exemple inclure les données des élections).
+  - Organiser un événement de sensibilisation sur les données en temps réel : valeur ajoutée pour les utilisateurs finaux, exemples de réussite, lien avec l'Internet des objets, architectures techniques, interopérabilité et normes.
 
-Éléments clés
-------------
+## 2024 - 2026
 
-### Information du secteur public PSI
-
-Les organismes du secteur public luxembourgeois créent, récoltent, gèrent et utilisent depuis longtemps une grande variété de données, d'informations et de documents. Outre l'usage principal pour lequel ce matériel a été créé, dans le cadre de la stratégie d'ouverture des données du Luxembourg, il devrait être ouvert à de nouvelles utilisations et réutilisations, à des combinaisons, des corrections et des améliorations. Pour cette raison, sauf si la législation l'interdit, ces données doivent être annoncées, correctement décrites, publiées et donc rendues accessibles pour être disponibles pour toute autre réutilisation.
-
-Les informations du secteur public sont censées constituer la base de l'infrastructure de données ouvertes et le point de départ d'un élargissement de l'infrastructure de données ouvertes au secteur privé. Sauf indication contraire ou contradiction avec la législation existante, les données produites ou détenues par les organismes du secteur public doivent être considérées comme "ouvertes par défaut". Les données résultant des contrats d'approvisionnement des organismes du secteur public doivent être définies comme ouvertes par défaut et mises à disposition en tant que telles sur la plateforme de données ouvertes.
-
-### Métadonnées
-
-Un facteur important dans le projet de données ouvertes est la disponibilité de métadonnées complètes et normalisées. La description exacte de l'emplacement de chaque ensemble de données, ses qualités, ses précisions, ses schémas de mise à jour, son actualité, ses licences, ses ressources en ligne et ses balises sont la base de leur utilisation dans l'écosystème des données ouvertes. Afin de permettre une recherche de données par thème, tous les ensembles de données doivent être liés à un ou plusieurs des thèmes de données officiels, et les balises standard du thème doivent être attribuées à chaque ensemble de données pour garantir la récolte de l'ensemble de données par d'autres plateformes de données nationales et internationales, notamment le portail européen de données.
-
-### Licences
-
-Les données ouvertes doivent reposer sur un système de licence clair et reconnu afin d'être réutilisées, ainsi tous les jeux de données doivent mentionner la licence attribuée. Bien qu'il n'y ait aucune obligation d'adopter une licence particulière, le gouvernement luxembourgeois préconise fortement l'utilisation des licences Creative Commons, et en particulier la licence Creative Commons Zero (CC0 - domaine public).
-
-### Infrastructure : Plate-forme centrale - données décentralisées
-
-Les ensembles de données doivent être mis en ligne par les producteurs de données, soit sur leurs propres sites web, soit sur le portail national de données ouvertes [http://data.public.lu](http://data.public.lu), où toutes les données existantes doivent être enregistrées. Des liens et des API doivent être utilisés pour éviter le double stockage des données et les différences de version et pour permettre l'accès aux données en direct.
-
-Le portail de données ouvertes dispose d'un puissant moteur de recherche qui aide les utilisateurs à trouver des données par thème, titre, producteur et tags. Les fonctions d'interaction de la plateforme permettent aux producteurs de données et aux opérateurs du portail de donner leur avis et d'échanger des informations sur les données. Le système de suivi du portail couvrira le besoin d'informations statistiques au niveau national.
-
-### Facilité de recherche
-
-La qualité et la précision des étiquettes attribuées aux ensembles de données, ainsi que des titres des ensembles de données et des ressources, permettent une recherche ciblée par les utilisateurs à la recherche de données appropriées pour leurs projets. Une collaboration coordonnée avec d'autres initiatives nationales en matière de données ainsi qu'avec des portails de données européens et internationaux permet de s'assurer que les données luxembourgeoises sont visibles et utilisables dans un contexte plus large et peut conduire à des contributions à valeur ajoutée.
-
-### Anonymisation
-
-La nécessité d'ouvrir les données doit être évaluée dans le respect du principe de la protection des données. Bien que certains ensembles de données dans leur forme complète puissent contenir des informations qui les empêchent de faire l'objet d'une publication générale en vertu de la législation existante, des efforts doivent être entrepris pour transformer et simplifier les données, afin d'obtenir un degré suffisant d'anonymisation et de permettre la publication des informations essentielles des données en tant que données ouvertes.
-
-
-### Sensibilisation
-
-Le Service information et presse (SIP) du gouvernement s'est vu confier la responsabilité stratégique du dossier des données ouvertes ainsi que de la politique d'accès à l'information. Une stratégie générale de sensibilisation et d'information vise à impliquer les décideurs de haut niveau de tous les départements et services de l'État. Parallèlement à cette approche systématique, des initiatives ascendantes sur le terrain avec des acteurs clés directement concernés permettront de découvrir, préparer, décrire et publier des données concrètes, contribuant ainsi à un flux continu de nouvelles informations sur le portail central.
-
-Des plateformes et des méthodes de communication populaires seront utilisées pour rester en contact avec les producteurs et la communauté des utilisateurs.
-
-Des événements réguliers autour de thèmes de données spécifiques sont organisés pour attirer l'attention sur les ensembles de données correspondants et promouvoir leur réutilisation.
-
-### Réutilisations
-
-Fondées sur les données ouvertes, les réutilisations sont destinées à tirer parti d'un nouvel écosystème de données numériques offrant une valeur ajoutée directe aux producteurs de données ainsi qu'un retour économique à long terme. Un point important de la stratégie implique la promotion d'entreprises émergentes spécialisées dans le traitement des données et la science des données.
-
-### Évaluation des progrès
-
-Un ensemble de critères sera retenu pour suivre les progrès du Grand-Duché dans le domaine des données ouvertes.
-
-Perspectives
--------
-
-Une multiplication toujours plus rapide des données, un contexte législatif moderne adapté pour améliorer l'accès et la réutilisation des informations, ainsi qu'un nouvel écosystème axé sur les données, soutiendront la migration du Luxembourg vers une société véritablement numérique et contribueront à une meilleure performance des institutions publiques, à une économie florissante et à une démocratie vivante.
+- Faire en sorte que davantage de données soient ouvertes en offrant un soutien technique et juridique aux propriétaires de données pour qu'ils publient leurs données.
+- Promouvoir la publication de données ouvertes de meilleure qualité et plus faciles à utiliser.
+- Collaborer avec d'autres programmes gouvernementaux pour promouvoir les données ouvertes (NIF, INSPIRE ; AI4Gov, Digital Luxembourg).
+- Hackathons &amp ; événements :
+  - Organiser au moins 1 hackathon par an sur les données ouvertes.
+  - Proposer des formations pour les employés du secteur public
+  - Organiser des événements de sensibilisation
+- Suivi récurrent de la qualité des données et des métadonnées et de l&#39activité des organisations dans le domaine. Présenter les résultats du suivi dans un tableau de bord public.
+- Augmenter l'automatisation des tâches de gestion répétitives pour améliorer la qualité des métadonnées.
+- Augmenter le recours au moissonnage pour automatiser la publication récurrente de données lisibles par machine.
+- Développer le concept d'ambassadeurs locaux des données ouvertes dans les grandes administrations stratégiques.
+- Développer un label/une marque pour les applications réutilisant des données ouvertes et lancer une campagne de promotion.
