@@ -1,11 +1,11 @@
 ---
-title: Stratégie de données ouvertes du Luxembourg
+title: Feuille de route à 5 ans pour l'ouverture des données
 keywords:
-description: Stratégie de données ouvertes du Luxembourg
+description: Feuille de route à 5 ans pour l'ouverture des données
 reuses:
 datasets:
 ---
-# feuille de route à 5 ans pour l'ouverture des données
+# Feuille de route à 5 ans pour l'ouverture des données
 
 ## 2022
 
