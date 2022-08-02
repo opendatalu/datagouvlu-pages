@@ -9,7 +9,7 @@ datasets:
 Lignes directrices pour la publication de données ouvertes au Luxembourg
 =========================================================
 
-Les lignes directrices suivantes pour la publication de jeux de données en tant que données ouvertes au Luxembourg sont adaptées de sections du [Open Data Handbook] (http://opendatahandbook.org/) de l'Open Knowledge Foundation.
+Les lignes directrices suivantes pour la publication de jeux de données en tant que données ouvertes sur ce portail sont adaptées à partir de textes provenant du [Open Data Handbook] (http://opendatahandbook.org/), proposé par l'Open Knowledge Foundation.
 
 Qu'est-ce que les données ouvertes ?
 ------------------
@@ -25,16 +25,16 @@ L'objectif principal de cette ouverture des ensembles de données est leur inter
 Quelles sont les données qui peuvent être ouvertes ?
 ---------------------------
 
-Les données qui ne sont pas soumises à des restrictions légales de publication, comme par exemple dans le cas de données personnelles, de propriété intellectuelle, d'aspects liés à la sécurité nationale ... peuvent principalement être prises en considération pour être mises à disposition en tant que données ouvertes. Dans le cas des organismes du secteur public, la publication des données est régie par la [directive européenne sur la réutilisation des informations du secteur public] (http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32013L0037). L'accent est mis sur les données non personnelles, qui ne contiennent pas d'informations sur des personnes spécifiques.
+Les données qui ne sont pas soumises à des restrictions légales de publication, comme par exemple dans le cas de données personnelles, de propriété intellectuelle, d'aspects liés à la sécurité nationale ... peuvent principalement être prises en considération pour être mises à disposition en tant que données ouvertes. Dans le cas des organismes du secteur public, la publication des données est régie par la [Loi du 29 novembre 2021 sur les données ouvertes et la réutilisation des informations du secteur public] (https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo). L'accent est mis sur les données non personnelles, qui ne contiennent pas d'informations sur des personnes spécifiques.
 
 Quelle stratégie adopter pour l'ouverture des données ?
 ----------------------------------------------------
 
 Trois principes généraux sont recommandés pour l'ouverture des données :
 
-* **Restez simple.** Commencez petit, simple et rapide. Il n'y a aucune obligation de rendre chaque ensemble de données ouvert immédiatement - il est préférable de commencer rapidement en ouvrant un premier ensemble de données et d'en ajouter continuellement par la suite, car on peut ainsi créer une dynamique et tirer des enseignements de l'expérience.
+* **Restez simple.** Commencez petit, simple et rapide. Il est préférable de commencer rapidement en ouvrant un premier ensemble de données et d'en ajouter continuellement par la suite, car on peut ainsi créer une dynamique et tirer des enseignements de l'expérience.
 * Engagez-vous avec les utilisateurs et les réutilisateurs réels et potentiels des données aussi tôt et aussi souvent que possible, qu'il s'agisse de citoyens, d'entreprises ou de développeurs. Cela permettra de garantir que la prochaine itération du service sera aussi pertinente que possible. Il est essentiel de garder à l'esprit qu'une grande partie des données n'atteindront pas directement les utilisateurs finaux, mais plutôt par l'intermédiaire de personnes qui prennent initialement les données et les transforment ou les remixent pour les présenter à d'autres.
-* L'ouverture des données suscitera de nombreuses questions et craintes. Il est important d'identifier les plus importantes et de les aborder le plus tôt possible. Sachez que tous les jeux de données ne seront pas nécessairement utiles et que l'utilité potentielle d'un jeu de données ne se révélera que si les données sont disponibles.
+* L'ouverture des données suscitera de nombreuses questions et craintes. Il est important d'identifier les plus importantes et de les aborder le plus tôt possible. Sachez que l'utilité potentielle d'un jeu de données ne se révélera que lorsque les données sont disponibles.
 
 Comment procéder à l'ouverture des données ?
 --------------------------------
@@ -43,7 +43,7 @@ L'ouverture des données se fait en quatre étapes principales :
 
 ### Choisir le(s) jeu(x) de données
 
-Bien qu'il ne s'agisse pas d'une obligation légale, il est utile de dresser une liste de vos jeux de données. Les organismes du secteur public doivent garder à l'esprit que la directive PSI et la [loi nationale correspondante] (http://legilux.public.lu/eli/etat/leg/loi/2016/05/23/n1/jo) les obligent à ouvrir leurs données. Il est recommandé de _demander à la communauté_, qui aura accès aux données et les utilisera, car elle est susceptible d'avoir une bonne compréhension des données qui pourraient être utiles.
+Bien qu'il ne s'agisse pas d'une obligation légale, il est utile de dresser une liste de vos jeux de données. Les organismes du secteur public doivent garder à l'esprit que la directive PSI et la [Loi du 29 novembre 2021 sur les données ouvertes et la réutilisation des informations du secteur public] (https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo) les obligent à ouvrir leurs données. Il est recommandé de _demander à la communauté_, qui aura accès aux données et les utilisera, car elle est susceptible d'avoir une bonne compréhension des données qui pourraient être utiles.
 
 Plus les organismes du secteur public dépensent pour la collecte et la mise à jour des ensembles de données, plus ces derniers peuvent être intéressants pour les tiers (_facteur coût_). De petites diffusions faciles peuvent agir comme un catalyseur pour un changement de comportement plus important au sein d'une organisation.
 
