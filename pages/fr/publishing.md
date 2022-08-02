@@ -9,7 +9,7 @@ datasets:
 Lignes directrices pour la publication de données ouvertes au Luxembourg
 =========================================================
 
-Les lignes directrices suivantes pour la publication de jeux de données en tant que données ouvertes sur ce portail sont adaptées à partir de textes provenant du [Open Data Handbook] (http://opendatahandbook.org/), proposé par l'Open Knowledge Foundation.
+Les lignes directrices suivantes pour la publication de jeux de données en tant que données ouvertes sur ce portail sont adaptées à partir de textes provenant du [Open Data Handbook](http://opendatahandbook.org/), proposé par l'Open Knowledge Foundation.
 
 Qu'est-ce que les données ouvertes ?
 ------------------
@@ -25,7 +25,7 @@ L'objectif principal de cette ouverture des ensembles de données est leur inter
 Quelles sont les données qui peuvent être ouvertes ?
 ---------------------------
 
-Les données qui ne sont pas soumises à des restrictions légales de publication, comme par exemple dans le cas de données personnelles, de propriété intellectuelle, d'aspects liés à la sécurité nationale ... peuvent principalement être prises en considération pour être mises à disposition en tant que données ouvertes. Dans le cas des organismes du secteur public, la publication des données est régie par la [Loi du 29 novembre 2021 sur les données ouvertes et la réutilisation des informations du secteur public] (https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo). L'accent est mis sur les données non personnelles, qui ne contiennent pas d'informations sur des personnes spécifiques.
+Les données qui ne sont pas soumises à des restrictions légales de publication, comme par exemple dans le cas de données personnelles, de propriété intellectuelle, d'aspects liés à la sécurité nationale ... peuvent principalement être prises en considération pour être mises à disposition en tant que données ouvertes. Dans le cas des organismes du secteur public, la publication des données est régie par la [Loi du 29 novembre 2021 sur les données ouvertes et la réutilisation des informations du secteur public](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo). L'accent est mis sur les données non personnelles, qui ne contiennent pas d'informations sur des personnes spécifiques.
 
 Quelle stratégie adopter pour l'ouverture des données ?
 ----------------------------------------------------
@@ -43,7 +43,7 @@ L'ouverture des données se fait en quatre étapes principales :
 
 ### Choisir le(s) jeu(x) de données
 
-Bien qu'il ne s'agisse pas d'une obligation légale, il est utile de dresser une liste de vos jeux de données. Les organismes du secteur public doivent garder à l'esprit que la directive PSI et la [Loi du 29 novembre 2021 sur les données ouvertes et la réutilisation des informations du secteur public] (https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo) les obligent à ouvrir leurs données. Il est recommandé de _demander à la communauté_, qui aura accès aux données et les utilisera, car elle est susceptible d'avoir une bonne compréhension des données qui pourraient être utiles.
+Bien qu'il ne s'agisse pas d'une obligation légale, il est utile de dresser une liste de vos jeux de données. Les organismes du secteur public doivent garder à l'esprit que la directive PSI et la [Loi du 29 novembre 2021 sur les données ouvertes et la réutilisation des informations du secteur public](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo) les obligent à ouvrir leurs données. Il est recommandé de _demander à la communauté_, qui aura accès aux données et les utilisera, car elle est susceptible d'avoir une bonne compréhension des données qui pourraient être utiles.
 
 Plus les organismes du secteur public dépensent pour la collecte et la mise à jour des ensembles de données, plus ces derniers peuvent être intéressants pour les tiers (_facteur coût_). De petites diffusions faciles peuvent agir comme un catalyseur pour un changement de comportement plus important au sein d'une organisation.
 
@@ -51,11 +51,11 @@ Plus les organismes du secteur public dépensent pour la collecte et la mise à 
 
 Les données ouvertes doivent être accompagnées d'une licence, ce qui est important pour des raisons de clarté juridique. Il est important de déterminer quels droits de propriété intellectuelle existent dans les données et d'appliquer une licence ouverte appropriée qui concède tous ces droits et soutient la définition de l'ouverture discutée dans ces lignes directrices.
 
-Pour le Luxembourg, l'application de la famille de licences Creative Commons est fortement recommandée, avec une nette préférence pour la licence Creative Commons Zero CC0 : il s'agit de l'option "aucun droit d'auteur réservé" de la boîte à outils Creative Commons, qui signifie effectivement l'abandon de tous les droits d'auteur et droits similaires que vous détenez sur une œuvre et l'affectation de ces droits au [domaine public] (https://wiki.creativecommons.org/wiki/Public_domain).
+Pour le Luxembourg, l'application de la famille de licences Creative Commons est fortement recommandée, avec une nette préférence pour la licence Creative Commons Zero CC0 : il s'agit de l'option "aucun droit d'auteur réservé" de la boîte à outils Creative Commons, qui signifie effectivement l'abandon de tous les droits d'auteur et droits similaires que vous détenez sur une œuvre et l'affectation de ces droits au [domaine public](https://wiki.creativecommons.org/wiki/Public_domain).
 
 ### Rendre les données disponibles (ouverture technique)
 
-Les données ouvertes doivent être disponibles en masse dans un format [lisible par machine] (http://opendatahandbook.org/glossary/en/terms/machine-readable/).
+Les données ouvertes doivent être disponibles en masse dans un format [lisible par machine](http://opendatahandbook.org/glossary/en/terms/machine-readable/).
 
 Disponibles : Le prix des données ne doit pas dépasser un coût raisonnable de reproduction, de préférence sous forme de téléchargement gratuit sur Internet.
 
@@ -82,7 +82,7 @@ Assurez-vous de vous inscrire sur le portail national de données ouvertes du Lu
 
 ### En tant qu'API
 
-Les données peuvent être publiées via une [interface de programmation d'applications] (http://opendatahandbook.org/glossary/en/terms/application-programming-interface/) (API). Ces interfaces permettent aux programmeurs de sélectionner des parties spécifiques des données, plutôt que de fournir toutes les données en vrac dans un grand fichier. Les API sont généralement connectées à une base de données qui est mise à jour en temps réel. Cela signifie que la mise à disposition des informations via une API permet de garantir leur mise à jour.
+Les données peuvent être publiées via une [interface de programmation d'applications](http://opendatahandbook.org/glossary/en/terms/application-programming-interface/) (API). Ces interfaces permettent aux programmeurs de sélectionner des parties spécifiques des données, plutôt que de fournir toutes les données en vrac dans un grand fichier. Les API sont généralement connectées à une base de données qui est mise à jour en temps réel. Cela signifie que la mise à disposition des informations via une API permet de garantir leur mise à jour.
 
 Données en vrac
 ---------
