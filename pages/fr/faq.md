@@ -8,15 +8,6 @@ datasets:
 
 # Questions fréquentes
 
-Découvrez l'open data en fonction de votre profil : 
-
-- [Citoyen : les fondamentaux de l'opendata](/fr/pages/faq/citizen/)
-- [Producteur : Que faut-il savoir avant de publier des données ?](/fr/pages/faq/producer/)
-- [Réutilisateur : Que faire avec les données ? avec quels outils ?](/fr/pages/faq/reuser/)
-- [Développeur : Comment interagir avec la plateforme ? Avec quelles API ?](/fr/pages/faq/developer/)
--  [Intégrateur : Quelles sont les intégrations tierces rendues possibles ?](/fr/pages/faq/system-integrator/)
-
-
 Le projet Open Data du gouvernement luxembourgeois a pour mission d’accompagner l’ouverture des données publiques de l’Etat et des administrations. À ce titre, elle met en oeuvre et anime la plateforme ouverte des données publiques data.public.lu qui héberge les jeux de données et recense leurs réutilisations.
 
 ## A quoi servent les données ouvertes ?
@@ -26,7 +17,7 @@ L’ouverture des données (Open Data) vise à encourager la réutilisation des 
 *   répondre à des questions,
 *   prendre des décisions, pour soi, sa commune, son association ou son entreprise,
 *   bénéficier de services utiles au quotidien : pour se déplacer, éviter le gaspillage alimentaire, connaître les services publics à proximité de son domicile,
-*   encourager la transparence démocratique des institutions et des élus, par exemple : connaître l’utilisation de la réserve parlementaire, les budgets de l’Etat et des collectivités, les titres de presse aidés par l’Etat.
+*   encourager la transparence démocratique des institutions et des élus, par exemple : connaître l’utilisation de la réserve parlementaire, les budgets de l’État et des collectivités, les titres de presse aidés par l’État.
 
 Data.public.lu s’adresse :
 

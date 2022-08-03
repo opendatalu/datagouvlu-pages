@@ -8,15 +8,6 @@ datasets:
 
 # Frequently asked questions
 
-Discover open data according to your profile: 
-
-- Citizen: The basics of opendata](/en/pages/faq/citizen/)
-- Producer: What to know before publishing data](/en/pages/faq/producer/)
-- Re-user: What to do with the data? with which tools](/en/pages/faq/reuser/)
-- Developer: How to interact with the platform? with which APIs?](/en/pages/faq/developer/)
-- Integrator: What third party integrations are possible?](/en/pages/faq/system-integrator/)
-
-
 The mission of the Luxembourg government's Open Data project is to support the opening of public data of the State and administrations. As such, it implements and runs the open public data platform data.public.lu, which hosts datasets and registers their re-use.
 
 ## What is the purpose of open data?
