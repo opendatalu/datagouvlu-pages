@@ -12,24 +12,24 @@ Découvrir l’OpenData en tant que citoyen
 Quelles données sont publiées sur “data.public.lu” ?
 ----------------------------------------------------
 
-Dans le cadre de leur mission de service publique, de nombreuses administrations collectent et conservent des données de nature très diverse. L’Etat dispose ainsi d’un nombre considérable de données non sensibles telles que:
+Dans le cadre de leur mission de service publique, de nombreuses administrations collectent et conservent des données de natures très diverses. L’Etat dispose ainsi d’un nombre considérable de données non sensibles telles que:
 
 *   Des données géo-spatiales dans des domaines différents: points adresse, cadastre, topographie, tourisme, aménagement du territoire, agriculture, archéologie etc.
-*   Des données environnementales: météorologie, qualité de l'eau, consommation d'énergie, niveaux d'émission, etc.
-*   Des données de santé publique: surveillance sentinelle de de la grippe, pollens, registre morphologique des tumeurs, rapports d’activité etc.
-*   Des données routières : trafic, horaires des transports publics, localisation des chantiers, etc.
-*   Des données statistiques : données démographiques, micro-économiques et macro-économiques.
+*   [Des données environnementales](/fr/pages/topics/environnement/): météorologie, qualité de l'eau, consommation d'énergie, niveaux d'émission, etc.
+*   [Des données de santé publique](/fr/pages/topics/sante/): surveillance sentinelle de de la grippe, pollens, registre morphologique des tumeurs, rapports d’activité etc.
+*   [Des données routières](/fr/pages/topics/transport/) : trafic, horaires des transports publics, localisation des chantiers, etc.
+*   [Des données statistiques](/fr/pages/topics/statistics/) : données démographiques, micro-économiques et macro-économiques.
 
-“Data.public.lu” poursuit également l’ambition d’être un outil à la disposition des citoyens pour leur permettre de produire, d’enrichir ou de compléter ces données ou de partager des données d'intérêt public, qu’il s’agisse par exemple de l’inventaire d’une bibliothèque communale, , de la composition nutritionnelle de produits alimentaires ou du bilan environnemental d’une entreprise.
+“Data.public.lu” poursuit également l’ambition d’être un outil à la disposition des citoyens pour leur permettre de produire, d’enrichir ou de compléter ces données ou de partager des données d'intérêt public, qu’il s’agisse par exemple de l’inventaire d’une bibliothèque communale, de la composition nutritionnelle de produits alimentaires ou du bilan environnemental d’une entreprise.
 
 Les données à caractère personnel et celles dont la publication contrevient à la loi ne sont pas acceptées sur la plateforme.
 
-Pour plus d'informations sur les meilleures pratiques en matière de publication, consultez le Guide de publication.
+Pour plus d'informations sur les meilleures pratiques en matière de publication, consultez le [Guide de publication](/fr/pages/publishing/).
 
 Quels acteurs contribuent sur “data.public.lu” ?
 ------------------------------------------------
 
-Citoyens, services publics ou toute organisation enregistrée sous son identité de personne physique ou de personne morale, peuvent alternativement adopter le rôle de producteur ou de réutilisateur de données. L’inscription et l’utilisation de la plateforme sont libres et gratuites.
+Citoyens, services publics ou toute organisation enregistrée sous son identité de personne physique ou de personne morale, peuvent alternativement adopter le rôle de [producteur](/fr/pages/faq/producer/) ou de [réutilisateur de données](/fr/pages/faq/reuser/). L’inscription et l’utilisation de la plateforme sont libres et gratuites.
 
 Pourquoi créer un compte sur “data.public.lu” ?
 -----------------------------------------------
@@ -67,13 +67,13 @@ La qualité des données, c’est à dire la longueur temporelle des séries, le
 Quel statut juridique pour les données publiées sur “data.public.lu” ?
 ----------------------------------------------------------------------
 
-Le producteur du jeu de données doit préciser le type de licences applicables: Licence ouverte CC0, CC-BY, ou autres licences. Le gouvernement encourage le transfert dans le domaine public (CC0).
+Le producteur du jeu de données doit préciser le type de licences applicables: [Creative Commons domaine public - CC0](https://creativecommons.org/share-your-work/public-domain/cc0/), [Creative commons attribution - CC-BY](https://creativecommons.org/licenses/by/3.0/lu/), ou autres licences. Le gouvernement encourage le transfert dans le domaine public (CC0).
 
-J’ai observé une inexactitude, un commentaire tendancieux, un contenu publicitaire que faire ?
+J’ai observé une inexactitude, un commentaire tendancieux, un contenu publicitaire, que faire ?
 ----------------------------------------------------------------------------------------------
 
-Vous pouvez signaler sur data.public.lu tout contenu qui vous semble contraire à l’éthique de la plateforme, cliquant sur le bouton signaler et en précisant la raison qui justifie ce signalement : contenu illégal, contenu en dehors du champ de la plateforme, contenu publicitaire...
+Vous pouvez signaler sur data.public.lu tout contenu qui vous semble contraire à l’éthique de la plateforme, en contactant l'équipe qui gère le portail à [info@data.public.lu](mailto:info@data.public.lu)
 
-Le signalement d’un contenu est notifié au producteur et à sa communauté. Le contenu peut être retiré automatiquement si le nombre de signalements est élevé ou si l'objectif manifeste de la publication est d'optimiser le référencement d'un site tiers (SEO) sans apport de données de qualité. L'éditeur de la plateforme se réserve le droit de modérer à tout moment un contenu qui contreviendrait aux règles de publication et/ou à l'éthique de la plateforme.
+Le signalement d’un contenu est notifié au producteur. Le contenu peut être retiré automatiquement si le nombre de signalements est élevé ou si l'objectif manifeste de la publication est d'optimiser le référencement d'un site tiers (SEO) sans apport de données de qualité. L'éditeur de la plateforme se réserve le droit de modérer à tout moment un contenu qui contreviendrait aux règles de publication et/ou à l'éthique de la plateforme.
 
 [← Retour à l’accueil de la FAQ](/fr/pages/faq/)
