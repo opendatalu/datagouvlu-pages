@@ -23,4 +23,6 @@ datasets:
 
 # Les données de la mobilité
 
-Retrouvez ici les données relatives à la mobilité au Luxembourg.
+Retrouvez ici les données relatives à la mobilité au Luxembourg, notamment les installations, dispositifs, règlements relatifs aux déplacements de personnes et des biens. 
+
+Le jeu de données à la une est actuellement : [Bornes de chargement publiques pour voitures électriques](https://data.public.lu/fr/datasets/bornes-de-chargement-publiques-pour-voitures-electriques/)
