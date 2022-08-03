@@ -17,9 +17,9 @@ Discover open data according to your profile:
 - Integrator: What third party integrations are possible?](/en/pages/faq/system-integrator/)
 
 
-The Luxembourg government's Open Data project is part of the Digital Lëtzebuerg initiative, whose mission is to support the opening of public data of the State and administrations. As such, it implements and runs the open public data platform data.public.lu, which hosts datasets and registers their re-use.
+The mission of the Luxembourg government's Open Data project is to support the opening of public data of the State and administrations. As such, it implements and runs the open public data platform data.public.lu, which hosts datasets and registers their re-use.
 
-### What is the purpose of open data?
+## What is the purpose of open data?
 
 Open Data aims to encourage the re-use of data beyond their primary use by the administration. By using, directly or via applications, data published on the data.public.lu platform, one can for example:
 
@@ -34,9 +34,9 @@ Data.public.lu is intended for :
 * reusers who can reference their work, whether it is an article, a data visualisation or an application,
 * but also to any citizen, association or company, who can discover and use data.
 
-### How to become part of the data.public.lu community?
+## How to become part of the data.public.lu community?
 
-By consulting [the portal blog](/en/posts/) you can register for the various events (Hackathons, OpenData Camps, Conferences) organised.
+By consulting [the portal blog](/en/posts/) you can register for the various organised events (Hackathons, conferences).
 
 We also invite you to follow our Twitter account [@OpenDataLu](https://twitter.com/opendatalu) (platform news, announcement of new datasets).
 
