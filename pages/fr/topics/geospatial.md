@@ -13,4 +13,6 @@ datasets:
 ---
 # Données géospatiales
 
-Retrouvez ici les données géospatiales du Luxembourg et de la Grande-Région
+Retrouvez ici les données géospatiales du Luxembourg et de la Grande-Région. 
+
+Le jeu de données à la une du moment est : [Base de données nationale des bâtiments 3D](https://data.public.lu/fr/datasets/base-de-donnees-nationale-des-batiments-3d/)
