@@ -14,7 +14,7 @@ Introduction
 
 Dans un effort général pour renforcer la démocratie et se diriger vers une société ouverte prête à faire confiance à ses institutions, le gouvernement luxembourgeois envisage une politique d'ouverture et de transparence accrues. La première étape de cette perspective a été la promotion et le développement d'une société véritablement numérique, un objectif principal de l'initiative nationale Digital Luxembourg. Cela permettra également au Grand-Duché de se développer en tant que pôle européen de compétences numériques et d'activités économiques connexes. Dans ce contexte, les données ouvertes ont été identifiées comme un facteur clé, non seulement pour le gouvernement, mais aussi pour les entreprises et l'ensemble de la société civile.
 
-La présente stratégie couvre le programme national du Luxembourg pour la mise en œuvre de son principe de données ouvertes. Une liste plus détaillée de mesures est reflétée dans la [feuille de route nationale sur les données ouvertes](https://staging.data.public.lu/fr/pages/5yearplan/).
+La présente stratégie couvre le programme national du Luxembourg pour la mise en œuvre de son principe de données ouvertes. Une liste plus détaillée de mesures est reflétée dans la [feuille de route nationale sur les données ouvertes](/fr/pages/5yearplan/).
 
 Éléments clés
 ------------

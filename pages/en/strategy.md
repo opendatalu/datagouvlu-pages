@@ -14,7 +14,7 @@ Introduction
 
 In a general effort to strengthen democracy and head towards an open society willing to trust its institutions, Luxembourg’s Government envisages a policy of augmented openness and transparency. The first step of this perspective has been the promotion and development of a truly digital society, a main objective of the national Digital Luxembourg initiative. This will also enable the Grand-Duchy to thrive as a European hub of digital skills and related economic activities. In this context, open data has been identified as a key factor, not only for government, but also for businesses and the entire civil society.
 
-The present strategy covers Luxembourg’s national program towards implementation of its open data principle. A more detailed list of measures is reflected in the national open data roadmap.
+The present strategy covers Luxembourg’s national program towards implementation of its open data principle. A more detailed list of measures is reflected in the [national open data roadmap](/fr/pages/5yearplan/).
 
 Key elements
 ------------
