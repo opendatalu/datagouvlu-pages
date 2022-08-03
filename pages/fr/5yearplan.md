@@ -10,8 +10,8 @@ datasets:
 
 ## 2022
 
-- Portail & technologie : Mettre à jour le portail national de données ouvertes pour qu'il soit conforme à la version udata 3.0 également utilisée par l'équipe nationale française de données ouvertes en collaboration avec DINUM France.
-- Sensibilisation : Définir avec le Ministère d'Etat des actions à court et moyen terme pour déclencher des diffusions plus conséquentes de données par les acteurs gouvernementaux, à la lumière de la [loi sur l'open data](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/) et de la [loi sur la liberté d'information](https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/jo)
+- Portail & technologie : Mettre à jour le portail national de données ouvertes pour qu'il soit conforme à la version udata 4.0 également utilisée par l'équipe nationale française de données ouvertes en collaboration avec DINUM France.
+- Sensibilisation : Définir avec le Ministère d'Etat des actions à court et moyen terme pour déclencher des diffusions plus conséquentes de données par les acteurs gouvernementaux, à la lumière de la [Loi du 29 novembre 2021 sur les données ouvertes et la réutilisation des informations du secteur public](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/) et de la [Loi du 14 septembre 2018 relative à une administration transparente et ouverte](https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/jo)
 - Réaliser une étude sur les forces et les faiblesses du portail national (étude de la satisfaction des utilisateurs).
 - Faire en sorte que davantage de données soient ouvertes en offrant un soutien technique et juridique aux propriétaires de données pour qu'ils publient leurs données :
   - Créer des scripts de moissonnage
