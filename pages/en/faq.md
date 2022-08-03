@@ -51,4 +51,4 @@ By consulting [the portal blog](/en/posts/) you can register for the various eve
 
 We also invite you to follow our Twitter account [@OpenDataLu](https://twitter.com/opendatalu) (platform news, announcement of new datasets and reuses).
 
-The platform team can also be reached by email: [info@data.public.lu](mailto:info@data.public.lu).
+The platform team can also be reached by email: info@data.public.lu.
