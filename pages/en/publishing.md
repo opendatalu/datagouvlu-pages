@@ -25,7 +25,7 @@ The principal goal of this openness of datasets is their interoperability, i.e. 
 What Data can be opened up?
 ---------------------------
 
-Data that is not subject to legal publication restrictions, like for example in case of personal data, intellectual property, national security aspects ... can principally be taken into consideration to be made available as open data. In case of public sector bodies, the publication of data is ruled by the [EU Directive on the re-use of public sector information](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32013L0037). The focus is on non-personal data, which does not contain information about specific individuals.
+Data that is not subject to legal publication restrictions, like for example in case of personal data, intellectual property, national security aspects ... can principally be taken into consideration to be made available as open data. In case of public sector bodies, the publication of data is ruled by the [Law on open data - Loi du 29 novembre 2021 sur les données ouvertes et la réutilisation des informations du secteur public](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo). The focus is on non-personal data, which does not contain information about specific individuals.
 
 What strategy should be adopted for opening up data?
 ----------------------------------------------------
