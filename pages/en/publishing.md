@@ -43,7 +43,7 @@ There are four main steps in making data open:
 
 ### Choose Dataset(s)
 
-Although it is no legal requirement, it is a useful step to make a list of your datasets. Public sector bodies should bear in mind that the PSI directive and the [corresponding national law](http://legilux.public.lu/eli/etat/leg/loi/2016/05/23/n1/jo) obliges them to open up their data. It is recommended to _ask the community_, who will be accessing and using the data, as it is likely to have a good understanding of which data could be valuable.
+Although it is no legal requirement, it is a useful step to make a list of your datasets. Public sector bodies should bear in mind that the PSI directive and the [corresponding national law](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo) obliges them to open up their data. It is recommended to _ask the community_, who will be accessing and using the data, as it is likely to have a good understanding of which data could be valuable.
 
 The more public sector agencies spend on the collection and maintenance of data sets, the more interesting they might well be for third parties to access (_Cost factor_). Small and easy releases can act as a catalyst for larger behavioural change within an organisation.
 
