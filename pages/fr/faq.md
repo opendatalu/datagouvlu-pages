@@ -32,7 +32,7 @@ L’ouverture des données (Open Data) vise à encourager la réutilisation des 
 *   mais aussi à tout citoyen, association ou entreprise, qui peut ainsi découvrir et utiliser des données.
 
 ## J’ai besoin de données que je ne trouve pas sur votre portail – que dois-je faire ?
-Veuillez d’abord vérifier avec la fonction de recherche du portail si ces données ne sont pas disponibles. Dans ce cas veuillez écrire un mail à l’équipe gestionnaire du portail sur  [info@data.public.lu](mailto:info@data.public.lu) et décrire les données dont vous besoin aussi bien que possible. Nous nous chargerons de rechercher ces données et de les obtenir si tel est possible. Veuillez vous référer pour plus d’information à notre [page sur la demande de réutilisation de données publiques](https://staging.data.public.lu/fr/pages/requesting/) 
+Veuillez d’abord vérifier avec la fonction de recherche du portail si ces données ne sont pas disponibles. Dans ce cas veuillez écrire un mail à l’équipe gestionnaire du portail sur  [info@data.public.lu](mailto:info@data.public.lu) et décrire les données dont vous besoin aussi bien que possible. Nous nous chargerons de rechercher ces données et de les obtenir si tel est possible. Veuillez vous référer pour plus d’information à notre [page sur la demande de réutilisation de données publiques](/fr/pages/requesting/) 
 
 ## J’ai trouvé des erreurs dans des jeux de données téléchargés – comment approcher le producteur des données ?
 Le mieux est d’utiliser la fonction de commentaire en bas de la page de chaque jeu de données. Ainsi votre question et les réponses voire les échanges subséquents seront visibles à la communauté et profiteront également à d’autres.
