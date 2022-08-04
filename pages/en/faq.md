@@ -32,7 +32,7 @@ Open Data aims to encourage the re-use of data beyond its primary use by the adm
 * but also to any citizen, association or company, who can discover and use data.
 
 ## I need data that I cannot find on your portal - what should I do?
-Please check first with the search function of the portal if these data are not available. In this case please write an email to the portal management team at [info@data.public.lu](mailto:info@data.public.lu) and describe the data you need as well as possible. We will take care of searching for this data and obtaining it if possible. Please refer to our [public data re-use request page](/en/pages/requesting/) for more information. 
+Please check first with the search function of the portal if these data are not available. In this case please write an email to the portal management team at info@data.public.lu and describe the data you need as well as possible. We will take care of searching for this data and obtaining it if possible. Please refer to our [public data re-use request page](/en/pages/requesting/) for more information. 
 
 ## I have found errors in downloaded datasets - how do I approach the producer of the data?
 The best way is to use the comment function at the bottom of each dataset page. This way your question and the subsequent answers or exchanges will be visible to the community and will also benefit others.
