@@ -16,16 +16,16 @@ What is Open Data?
 
 The [Open Definition](http://opendefinition.org/) defines open data as data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement to attribute and share alike. Important aspects are:
 
-*   **Availability and access:**the data must be available as a whole and at no more than a reasonable reproduction cost, preferably as internet downloads. The data must also be available in a convenient and modifiable form.
-*   **Re-use and redistribution:**the data must be provided under terms that permit re-use and redistribution including the intermixing with other datasets.
-*   **Universal participation:**everyone must be able to use, re-use and redistribute - there should be no discrimination against fields of endeavor or against persons or groups. For example, restrictions that would prevent commercial use, or certain purposes (e.g. only in education), are not allowed.
+*   **Availability and access:** the data must be available as a whole and at no more than a reasonable reproduction cost, preferably as internet downloads. The data must also be available in a convenient and modifiable form.
+*   **Re-use and redistribution:** the data must be provided under terms that permit re-use and redistribution including the intermixing with other datasets.
+*   **Universal participation:** everyone must be able to use, re-use and redistribute - there should be no discrimination against fields of endeavor or against persons or groups. For example, restrictions that would prevent commercial use, or certain purposes (e.g. only in education), are not allowed.
 
 The principal goal of this openness of datasets is their interoperability, i.e. the ability to intermix with other datasets. The combination of different datasets together potentially leads to more and better products and services.
 
 What Data can be opened up?
 ---------------------------
 
-Data that is not subject to legal publication restrictions, like for example in case of personal data, intellectual property, national security aspects ... can principally be taken into consideration to be made available as open data. In case of public sector bodies, the publication of data is ruled by the [Open data law of 29 November 2021 - Loi du 29 novembre 2021 sur les données ouvertes et la réutilisation des informations du secteur public](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo). The focus is on non-personal data, which does not contain information about specific individuals.
+Data that is not subject to legal publication restrictions, like for example in case of personal data, intellectual property, national security aspects, can principally be taken into consideration to be made available as open data. In case of public sector bodies, the publication of data is ruled by the [Open data law of 29 November 2021 - Loi du 29 novembre 2021 sur les données ouvertes et la réutilisation des informations du secteur public](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo). The focus is on non-personal data, which does not contain information about specific individuals.
 
 What strategy should be adopted for opening up data?
 ----------------------------------------------------
@@ -43,15 +43,13 @@ There are four main steps in making data open:
 
 ### Choose Dataset(s)
 
-Although it is no legal requirement, it is a useful step to make a list of your datasets. Public sector bodies should bear in mind that the PSI directive and the [corresponding national law](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo) obliges them to open up their data. It is recommended to _ask the community_, who will be accessing and using the data, as it is likely to have a good understanding of which data could be valuable.
-
-The more public sector agencies spend on the collection and maintenance of data sets, the more interesting they might well be for third parties to access (_Cost factor_). Small and easy releases can act as a catalyst for larger behavioural change within an organisation.
+Although it is no legal requirement, it is a useful step to make a list of your datasets. Public sector bodies should bear in mind that the PSI directive and the [corresponding national law](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo) obliges them to open up their data.
 
 ### Apply an Open License (Legal Openness)
 
 Open data should be accompanied by a license which is important for the sake of legal clarity. It is important to determine what intellectual property rights exist in the data and to apply a suitable open license that licenses all of these rights and supports the definition of openness discussed in these guidelines.
 
-For Luxembourg, the application of the Creative Commons family of licenses is strongly advocated, with a clear preference for the Creative Commons Zero CC0 license: this is the "no copyright reserved" option in the Creative Commons toolkit and effectively means relinquishing all copyright and similar rights that you hold in a work and dedicating those rights to the [public domain](https://wiki.creativecommons.org/wiki/Public_domain).
+For Luxembourg, the application of the [Creative Commons](https://creativecommons.org/) family of licenses is strongly advocated, with a clear preference for the [Creative Commons Zero CC0](https://creativecommons.org/publicdomain/zero/1.0/deed) license: this is the "no copyright reserved" option in the Creative Commons toolkit and effectively means relinquishing all copyright and similar rights that you hold in a work and dedicating those rights to the [public domain](https://wiki.creativecommons.org/wiki/Public_domain).
 
 ### Make Data Available (Technical Openness)
 
@@ -84,8 +82,7 @@ Make sure to register at Luxembourg's national open data portal at [https://data
 
 Data can be published via an [Application Programming Interface](http://opendatahandbook.org/glossary/en/terms/application-programming-interface/) (API). These interfaces allow programmers to select specific portions of the data, rather than providing all of the data in bulk as a large file. APIs are typically connected to a database which is being updated in real-time. This means that making information available via an API can ensure that it is up to date.
 
-Bulk data
----------
+### Bulk download
 
 Publishing raw data in bulk should be the primary concern of all open data initiatives, as there are considerable costs to providing an API. Access to bulk data ensures that:
 
