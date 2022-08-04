@@ -8,25 +8,24 @@ datasets:
 Guide to the use of data
 ===============================
 
-These usage guidelines are based on goodwill. They do not represent a legal contract, but the Luxembourg government kindly asks you to follow them if you use the data on this site.
+These usage guidelines suggest best practices and do not represent a legal contract, but the Luxembourg government kindly asks you to follow them when you use data from this site.
 
-Cite sources when it is appropriate to do so.
+Cite sources when it is appropriate and possible to do so.
 --------------------------------------------------
 
-Make sure others are aware of these usage guidelines by keeping the links to the Creative Commons Zero Public Domain transfer and usage guidelines intact.
+Please respect the terms of the license of the data you are using. Even if it is not required by the license, it is always nice to cite the sources.
 
-If, for technical or other reasons, you cannot include all the links to all the data sources and the legal information and usage guidelines directly with the data, you should consider including them separately, for example in a separate document that is distributed with the data or dataset.
+Publish your re-use if possible.
+--------------------------------------------------
 
-If, for technical or other reasons, you cannot include all links to all data sources and legal information and guidelines for use, you may consider linking only to resource on data.public.lu, where all available sources, legal information and guidelines for use can be found, including in machine readable formats.
+Feel free to [share your re-uses](/en/admin/reuse/new) of our data on this portal. This encourages data producers to endeavor and it may be beneficial for the community.
 
-Mention your data changes and make your changed data available under the same conditions.
+Mention your data changes.
 ---------------------------------------------------------------------------------------------------------------
 
-Ensure that you do not use the data in a way that suggests an official status of the Grand Duchy of Luxembourg. Be careful not to mislead others or misrepresent the data or its sources.
-
-When transforming, translating or modifying the data, make it obvious that you have modified the data. If you enhance or modify the data, consider publishing the derived data preferably through transfer to the Creative Commons Zero Public Domain.
+In case you have enriched the data, and this modification is not a re-usesd in itself, you may consider sharing this improved data with the community. The section "community resources" on the datasets sub-page is the right place to do so.
 
 Dynamic data
 ------------------
 
-When working with data obtained from data.public.lu, be aware that the data may not be static. It may change daily. The contributors to the portal continually update their data, to correct errors and to include new and additional information. Therefore, the best way to use the data published on the portal is through an API if available, or through a link to the specific data. If, for technical or other reasons, you cannot do this, you can provide a link to the resource on data.public.lu, or implement an update mechanism.
+Always take into account that some data may not be static. Depending on the update rythm, it may change regularly. Therefore, you may consider checking for updates regularly. The [portal's API](/fr/docapi/) can also be helpful. 
