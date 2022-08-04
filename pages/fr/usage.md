@@ -8,23 +8,23 @@ datasets:
 Guide d'utilisation des données
 ===============================
 
-Ces directives d’utilisation sont basées sur la bonne volonté et ne représentent pas un contrat légal. Toutefois le Gouvernement du Grand-Duché de Luxembourg vous demande de les suivre lorsque vous utilisez les données de ce site.
+Ce guide d'utilisation suggère les meilleures pratiques et n'est pas un contrat légal. Toutefois nous vous demandons de le suivre lorsque vous utilisez les données de ce site.
 
-Citez les sources quand il est juste de les citer.
+Citez les sources quand il est approprié et possible de le faire.
 --------------------------------------------------
 
-Assurez-vous que les liens au transfert dans le Domaine Public Creative Commons Zéro et les directives d’utilisation soient gardés intacts dans la mesure du possible.
+Veuillez respecter les termes de la licence des données que vous utilisez. Même si la licence ne l'exige pas, il est toujours bon de citer les sources.
 
-Si, pour des raisons techniques ou autres, vous ne pouvez pas inclure directement avec les données les liens vers les sources de données ou les informations légales et directives d’utilisation connexes, envisagez de les inclure séparément, par exemple dans un document distinct qui est distribué avec les données ou jeux de données.
+Publiez votre réutilisation si possible.
+--------------------------------------------------
 
-Mentionnez vos modifications des données et rendez vos données modifiées disponibles sous les mêmes conditions.
+N'hésitez pas à [partager vos réutilisations](/fr/admin/reuse/new) de nos données sur ce portail. Cela encourage les producteurs de données à faire des efforts et cela peut être bénéfique pour la communauté.
+
+Mentionnez vos modifications de données.
 ---------------------------------------------------------------------------------------------------------------
 
-Veillez à ne pas induire le public en erreur ou à donner une image inexacte des données ou de leurs sources. Assurez-vous notamment que vous n’utilisez pas les données d’une manière qui en suggère un statut officiel de la part du Gouvernement. 
-
-Lorsque vous transformez, traduisez ou modifiez le données, rendez évident que vous avez modifié les données. Si vous enrichissez ou modifiez les données, envisagez de publier les données dérivées de préférence par l’intermédiaire du transfert dans le Domaine Public Creative Commons Zéro.
+Dans le cas où vous avez enrichi les données, et que cette modification n'est pas une réutilisation en soi, vous pouvez envisager de partager ces données améliorées avec la communauté. La section "ressources communautaires" de la sous-page des jeux de données est le bon endroit pour le faire.
 
 Données dynamiques
 ------------------
-
-Lorsque vous travaillez avec des données obtenues de data.public.lu, soyez conscient que ces données ne sont peut-être pas statiques et qu'elles peuvent être modifiées et mises à jour par le producteur. Par conséquent, la meilleure façon d’utiliser les données est le recours à une API si une telle est disponible, ou par un lien vers les données spécifiques. Si ceci n'est pas possible, vous pouvez fournir un lien vers la resource sur data.public.lu, ou implémenter un mécanisme de mise à jour.
+Attention : les données ne sont pas toutes statiques. En fonction du rythme de mise à jour, elles peuvent changer régulièrement. Par conséquent, vous pouvez vérifier régulièrement les mises à jour. L'[API du portail](/fr/docapi/) peut également vous être utile. 
