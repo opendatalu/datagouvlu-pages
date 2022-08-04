@@ -46,7 +46,7 @@ Exemple:
 
 ## Exemples 
 
-Tous les exemples utilisent [httpie](http://httpie.org) et [jq](http://stedolan.github.io/jq/) pour faciliter la lisibilité. Vous n'êtes pas contraint d'utiliser ces bibliothèques pour votre code, ce sont juste des outils pour mieux comprendre l'API.
+Tous les exemples suivants utilisent les outils en ligne de commande [httpie](http://httpie.org) et [jq](http://stedolan.github.io/jq/). Vous pouvez bien entendu utiliser cette API avec les outils ou bibliothèques de votre choix. 
 
 ### Vérifier que httpie fonctionne
 
@@ -260,5 +260,4 @@ Une fois effectué, vous pouvez vérifier que c'est effectif en envoyant un GET 
                 }
                 
                 
-
-Consultez la [documentation de référence](/en/docapi) pour d'autres interactions avec l'API ou posez-nous vos questions sur le sujet !
+N'hésitez pas à consulter nos [exemples d'utilisation de cette API en Python](https://github.com/opendatalu/udata-examples), ainsi que la [documentation de référence](/en/docapi).
