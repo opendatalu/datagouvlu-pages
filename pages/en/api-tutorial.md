@@ -46,7 +46,7 @@ Example:
 
 ## Examples 
 
-All examples use [httpie](http://httpie.org) and [jq](http://stedolan.github.io/jq/) for ease of reading. You don't have to use these libraries for your code, they are just tools to better understand the API.
+The following examples use the following command line tools: [httpie](http://httpie.org) and [jq](http://stedolan.github.io/jq/). You can of course use this API with the tools or libraries of your choice.
 
 ### Check that httpie is working
 
@@ -260,4 +260,5 @@ Once done, you can check that it is effective by sending a GET to the previous U
                 
                 
 
-See the [reference documentation](/en/docapi) for more interactions with the API or ask us questions about it!
+
+Have a look at our [examples showing how to use this API in Python](https://github.com/opendatalu/udata-examples), as well as the [reference documentation](/en/docapi).
