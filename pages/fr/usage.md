@@ -8,7 +8,7 @@ datasets:
 Guide d'utilisation des données
 ===============================
 
-Ce guide d'utilisation suggère les meilleures pratiques et n'est pas un contrat légal. Toutefois nous vous demandons de le suivre lorsque vous utilisez les données de ce site.
+Ce guide d'utilisation suggère les meilleures pratiques et il ne représente pas un contrat légal. Toutefois nous vous demandons de le suivre lorsque vous utilisez les données de ce site.
 
 Citez les sources quand il est approprié et possible de le faire.
 --------------------------------------------------
