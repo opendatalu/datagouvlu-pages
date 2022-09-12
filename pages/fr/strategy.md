@@ -8,6 +8,7 @@ datasets:
 
 Stratégie de données ouvertes du Luxembourg
 ===============================
+*Dernière mise à jour : 12 septembre 2022*
 
 Introduction
 ------------
