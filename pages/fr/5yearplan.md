@@ -8,6 +8,8 @@ datasets:
 
 # Feuille de route quinquennale du Luxembourg pour l'Open data
 
+*Dernière mise à jour : 14/12/2022*
+
 Dans le domaine de l’Open data, les objectifs généraux sur les cinq prochaines années sont les suivants :
 -	Veiller, à la lumière de la [loi sur les données ouvertes](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/) et de la [loi sur la liberté d'information](https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/jo), à ce que davantage de données soient ouvertes en offrant une assistance technique et juridique aux propriétaires de données pour qu'ils publient leurs données. L’accent sera mis sur les sujets suivants :
       -	formats de fichiers, standards, automatisation de la publication de données ;
