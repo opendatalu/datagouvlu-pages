@@ -14,17 +14,17 @@ The official version of this document is the [French version](/fr/pages/5yearpla
 
 In the field of Open data, the general objectives over the next five years are as follows
 - Ensure, in the light of the [Open data Act](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/) and the [Freedom of Information Act](https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/jo), that more data is opened up by providing technical and legal assistance to data owners to publish their data. The focus will be on the following topics
-      - file formats, standards, automation of data publication;
-      - decision support for licensing;
-      - data protection considerations.
+    - file formats, standards, automation of data publication;
+    - decision support for licensing;
+    - data protection considerations.
 - Promote the publication of higher quality and easier to use Open data.
 - Collaborate with the Luxembourg government's interoperability programme to encourage the publication of data in standard and interoperable formats.
 - Collaborate with the Luxembourg government's AI4Gov programme to foster the availability of open datasets that can be used for AI.
 - Collaborate with the ecosystem established under the Data Governance Act (re-use of certain categories of protected data held by public sector bodies).
 - Organise events: 
-      - Collaborative hackathons on a given theme;
-      - Training for public sector employees;
-      - Awareness-raising events.
+    - Collaborative hackathons on a given theme;
+    - Training for public sector employees;
+    - Awareness-raising events.
 - Improve the quality and currency of metadata through awareness campaigns and audit procedures. Quality metadata allows data to be found more easily by users of the Open data Portal.
 - Recurrent monitoring of data and metadata quality and of the activity of organisations in the field. Present monitoring results in a public dashboard.
 
@@ -44,9 +44,9 @@ For each year, intermediate objectives or main topics are defined.
 - Establish and update lists of existing data that still need to be opened.
 - Update the list of data identified as high value datasets.
 - Real-time data:
-      - promote and increase the visibility of real-time datasets and reuses on the portal;
-      - identify strategic real-time data that has not yet been published and support its implementation and publication;
-      - organise an event to raise awareness of real-time data: added value for end-users, success stories, links to the Internet of Things, technical architectures, interoperability and standards.
+    - promote and increase the visibility of real-time datasets and reuses on the portal;
+    - identify strategic real-time data that has not yet been published and support its implementation and publication;
+    - organise an event to raise awareness of real-time data: added value for end-users, success stories, links to the Internet of Things, technical architectures, interoperability and standards.
 
 ### 2025 - 2027
 - Increase automation of repetitive management tasks to improve metadata quality.
