@@ -52,3 +52,4 @@ Pour chaque année, des objectifs intermédiaires ou sujets principaux sont déf
 -	Développer un label/une marque pour les applications réutilisant des données ouvertes et lancer une campagne de promotion.
 -	Mettre à jour la stratégie et la feuille de route en fonction du bilan de l’activité.
 
+
