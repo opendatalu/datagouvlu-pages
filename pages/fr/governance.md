@@ -39,7 +39,7 @@ Le service du [géoportail](https://geoportail.lu/en/) opère le [portail Open d
 ### Les responsables du programme Digital Luxembourg
 Le programme gouvernemental [Digital Luxembourg](https://digital-luxembourg.public.lu/), piloté par le SMC, est un moteur central dans la transformation digitale du pays. Il est étroitement lié au programme Open data, notamment au niveau de l’organisation d’événements promotionnels et de hackathons.
 ## Plate-formes connexes et liées au portail Open data
-Le [portail Open data national](https://data.public.lu/fr/) collabore au niveau international afin d’augmenter la visibilité des données luxembourgeoises, et au niveau national notamment dans le but d’offrir une plate-forme nationale centrale pour l’accès à toutes les données ouvertes disponibles. Parmi les plate-formes partenaires on peut citer :
+Le [portail Open data national](https://data.public.lu/fr/) collabore au niveau international afin d’augmenter la visibilité des données luxembourgeoises, et au niveau national notamment dans le but d’offrir une plate-forme nationale centrale pour l’accès à toutes les données ouvertes disponibles. Parmi les plates-formes partenaires, on peut citer :
 
 - <https://data.europa.eu/en>
 - <https://geoportail.lu/en/>
