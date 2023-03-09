@@ -45,7 +45,7 @@ Go to the dataset of your choice on data.public.lu, then:
 
 ![](../licenses-odp.png)
 
-If you have specific questions about open licenses in the context of open data, please [contact us](mailto:info@data.public.lu).
+If you have specific questions about open licenses in the context of open data, please contact us at info@data.public.lu.
 
 For more information
 --------------------
