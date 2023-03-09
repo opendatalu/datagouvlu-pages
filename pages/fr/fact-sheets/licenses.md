@@ -38,7 +38,7 @@ Un outil interactif est mis à disposition sur le site des Creative Commons afin
 
 ![](licenses-odp.png)
 
-Si vous avez des questions particulières sur les licences ouvertes dans le cadre de l'open data, n'hésitez pas à [nous contacter](mailto:info@data.public.lu).
+Si vous avez des questions particulières sur les licences ouvertes dans le cadre de l'open data, n'hésitez pas à nous contacter à l'adresse info@data.public.lu.
 
 ## Pour aller plus loin
 
