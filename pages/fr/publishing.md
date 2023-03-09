@@ -51,7 +51,7 @@ Les données ouvertes doivent être accompagnées d'une licence, ce qui est impo
 
 Pour le Luxembourg, l'application de la famille de licences [Creative Commons](https://creativecommons.org/) est fortement recommandée, avec une nette préférence pour la licence [Creative Commons Zero CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) : il s'agit de l'option "aucun droit d'auteur réservé" de la boîte à outils Creative Commons, qui signifie effectivement l'abandon de tous les droits d'auteur et droits similaires que vous détenez sur une œuvre et l'affectation de ces droits au [domaine public](https://wiki.creativecommons.org/wiki/Public_domain).
 
-Pour en savoir plus, consultez notre [fiche d'information Open data sur l'usage de licences](/fr/pages/fact-sheet-licenses/).
+Pour en savoir plus, consultez notre [fiche d'information Open data sur l'usage de licences](/fr/pages/fact-sheets/licenses/).
 
 ### Rendre les données disponibles (ouverture technique)
 
