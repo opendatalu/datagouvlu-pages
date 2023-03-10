@@ -43,7 +43,7 @@ Go to the dataset of your choice on data.public.lu, then:
 1.  Click on the "metadata" tab
 2.  Check the license specified in the "License" section. You can click on the link that will take you to a description of the license.
 
-![](../licenses-odp.png)
+![](https://raw.githubusercontent.com/opendatalu/datagouvlu-pages/master/pages/en/fact-sheets/licenses-odp.png)
 
 If you have specific questions about open licenses in the context of open data, please contact us at info@data.public.lu.
 
