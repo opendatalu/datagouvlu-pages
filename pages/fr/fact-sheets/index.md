@@ -1,3 +1,3 @@
 # Fiches d'information
 
-- [Usage de licences](./licences.md]
+- [Usage de licences](./licences.md)
