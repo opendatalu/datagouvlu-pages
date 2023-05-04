@@ -36,7 +36,7 @@ Un outil interactif est mis à disposition sur le site des Creative Commons afin
 1. Rendez-vous sur le jeu de données de votre choix sur data.public.lu, puis cliquez sur l'onglet « métadonnées ».
 2. Consultez la licence précisée dans la section « Licence ». Cliquez sur le lien pour voir une description de la licence.
 
-![](../licenses-odp.png)
+![](https://data.public.lu/fr/pages/fact-sheets/licenses-odp.png)
 
 Si vous avez des questions particulières sur les licences ouvertes dans le cadre de l'open data, n'hésitez pas à nous contacter à l'adresse info@data.public.lu.
 
