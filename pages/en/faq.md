@@ -44,6 +44,9 @@ You can use the comment function at the bottom of each dataset page to see if th
 ## I create data myself, can I also publish it on your portal? OR is the portal only for administrations? 
 Yes, you and your data are welcome. You can publish them and contribute to the Luxembourg open data ecosystem. However, don't forget to assign an open license to it, we recommend for any further reuse facility to use the [Creative Commons Zero (public domain)](https://creativecommons.org/publicdomain/zero/1.0/deed).
 
+## What is the impact of open data on Luxembourg and the Greater Region?
+
+We review all these points on the page [Impact of Open data - definitions and reflections in the framework of the Luxembourgish Open data project](https://data.public.lu/en/pages/impact/).
 
 ## How to become part of the data.public.lu community?
 
