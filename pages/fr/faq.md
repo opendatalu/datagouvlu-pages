@@ -45,6 +45,10 @@ Vous pouvez utiliser la fonction de commentaire en bas de la page de chaque jeu 
 Oui, vous et vos données sont les bienvenues. Vous pouvez bien les publier et ainsi contribuer à l’écosystème des données ouvertes du Luxembourg. N’oubliez toutefois pas d’y attribuer une licence ouverte, nous préconisons pour toute facilité ultérieure de réutilisation d’utiliser la [Creative Commons Zero (domaine public)](https://creativecommons.org/publicdomain/zero/1.0/deed.fr).
 
 
+## Quel est l'impact des données ouvertes sur le Luxembourg et la Grande Région ?
+
+Nous détaillons tous ces points sur la page [Impact des données ouvertes – définitions et réflexions dans le cadre du projet Open data luxembourgeois](https://data.public.lu/fr/pages/impact/).
+
 ## Comment faire partie de la communauté data.public.lu ?
 
 En consultant [le blog du portail](/fr/posts/) vous pourrez vous inscrire aux différents évènements (Hackathons, conférences) organisés.
