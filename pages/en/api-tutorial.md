@@ -261,4 +261,5 @@ Once done, you can check that it is effective by sending a GET to the previous U
                 
 
 
-Have a look at our [examples showing how to use this API in Python](https://github.com/opendatalu/udata-examples), as well as the [reference documentation](/en/docapi).
+Have a look at our [examples showing how to use this API in Java](https://github.com/opendatalu/udata-java-examples) and [in Python](https://github.com/opendatalu/udata-examples), as well as the [reference documentation](/en/docapi).
+
