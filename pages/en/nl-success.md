@@ -1,7 +1,7 @@
 ---
-title: successful subscription!
+title: Successful subscription!
 keywords:
-description: subscription to the newsletter
+description: Subscription to the newsletter
 reuses:
 datasets:
 ---
