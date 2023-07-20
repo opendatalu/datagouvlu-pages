@@ -6,7 +6,7 @@ reuses:
 datasets:
 ---
 ## Inscription réussie !
-![](../../img/icon-success-black.png)
+![](/fr/pages/icon-success-black.png)
 
 L'inscription à la lettre d'information a été effectuée avec succès !
 
