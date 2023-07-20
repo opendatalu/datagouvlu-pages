@@ -6,7 +6,7 @@ reuses:
 datasets:
 ---
 ## Successful subscription!
-![](./icon-success-black.png)
+![](/en/pages/icon-success-black.png)
 
 Subscription to the newsletter has been successfully completed!
 
