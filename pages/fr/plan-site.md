@@ -24,6 +24,7 @@ datasets:
 - [Feuille de route pour l'ouverture des données](/fr/pages/5yearplan/)
 - [Tutoriel de l'API](/fr/pages/api-tutorial/)
 - [Référence de l'API](/fr/docapi/)
+- [Lettre d'information](/fr/pages/newsletter/)
 - [Conditions générales d'utilisation](/fr/pages/legal/terms/)
 - [Politique de confidentialité](/fr/pages/legal/privacy/)
 - [Accessibilité](/fr/pages/legal/declaration/)
