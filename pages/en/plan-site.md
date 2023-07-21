@@ -24,6 +24,7 @@ datasets:
 - [Open Data Roadmap](/en/pages/5yearplan/)
 - [API Tutorial](/en/pages/api-tutorial/)
 - [API Reference](/en/docapi/)
+- [Newsletter](/en/pages/newsletter/)
 - [Terms and conditions](/en/pages/legal/terms/)
 - [Privacy policy](/en/pages/legal/privacy/)
 - [Accessibility](/en/pages/legal/declaration/)
