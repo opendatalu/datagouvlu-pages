@@ -51,7 +51,7 @@ Open data should be accompanied by a license which is important for the sake of 
 
 For Luxembourg, the application of the [Creative Commons](https://creativecommons.org/) family of licenses is strongly advocated, with a clear preference for the [Creative Commons Zero CC0](https://creativecommons.org/publicdomain/zero/1.0/deed) license: this is the "no copyright reserved" option in the Creative Commons toolkit and effectively means relinquishing all copyright and similar rights that you hold in a work and dedicating those rights to the [public domain](https://wiki.creativecommons.org/wiki/Public_domain).
 
-To find out more about this, see our [Open data fact sheet on the use of licenses](fact-sheets/licenses.md).
+To find out more about this, see our [Open data fact sheet on the use of licenses](/en/pages/fact-sheets/licenses.md).
 
 ### Make Data Available (Technical Openness)
 
