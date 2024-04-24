@@ -260,4 +260,4 @@ Une fois effectué, vous pouvez vérifier que c'est effectif en envoyant un GET 
                 }
                 
                 
-N'hésitez pas à consulter nos [exemples d'utilisation de cette API en Python](https://github.com/opendatalu/udata-examples), ainsi que la [documentation de référence](/en/docapi).
+N'hésitez pas à consulter [nos exemples d'utilisation de cette API en Java](https://github.com/opendatalu/udata-java-examples) ou [en Python](https://github.com/opendatalu/udata-examples),ainsi que la [documentation de référence](/en/docapi).
