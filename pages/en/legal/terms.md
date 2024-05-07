@@ -92,9 +92,30 @@ The duration of data retention does not exceed that necessary to observe the evo
 
 The person responsible for this processing is the organisation responsible for this site.
 
-### 2.4. Code of conduct and responsibilities of contributors
 
-#### 2.4.1. Publication of a dataset or reuse
+### 2.4. Processing related to online surveys
+
+User data is collected on a voluntary basis for the sole purpose of conducting surveys for government agencies. In addition, technical audience measurement data is collected at the same time.
+
+The data is stored for the duration of the survey, plus a few weeks for statistical analysis of the results.
+
+These surveys are carried out directly on the site of a subcontractor, namely alchemer.eu from Alchemer LLC, based in the United States. The data is hosted in Europe. The latter is subject to the same legal obligations regarding the protection of personal data when surveys are intended for or carried out by users from the European Union.
+
+The procedures for implementing these surveys are such that no data is of a nature to identify the user in person. The combination of technical identification data (IP address or information on the user's browser or device), and/or data from several surveys cannot lead to such identification by the subcontractor operating the platform.
+
+The person responsible for this processing and the recipient of the data is the Organization responsible for this site that commissioned the survey.
+
+### 2.5. Processing linked to newsletter management
+
+The e-mail address entered when subscribing to the newsletter on this site will be communicated solely for the purposes of newsletter distribution to a subcontractor, namely the company "Mailjet" based in Paris, France, which is subject to the same legal obligations concerning the protection of personal data. To limit abuse, users must validate their registration by clicking on a link sent to the e-mail address provided.
+
+Users may unsubscribe at any time by clicking on the link provided in each e-mail or by contacting the organization responsible for the site. The user's data will be kept for no longer than two weeks following the unsubscribe request, except in cases where partial or total conservation of the data is required by the data controller, in compliance with the relevant legal obligations.
+
+The data controller is the organization responsible for this site.
+
+### 2.6. Code of conduct and responsibilities of contributors
+
+#### 2.6.1. Publication of a dataset or reuse
 
 The data.public.lu Portal disseminates Public Information and data of public interest published by Contributors which can be made available for download, via an API or referenced by a link.
 
@@ -102,7 +123,7 @@ The Platform is not intended to disseminate advertising data, promotion of priva
 
 Contributors are solely responsible for the data, metadata or content they publish on the Platform.
 
-#### 2.4.2. Datasets containing personal data
+#### 2.6.2. Datasets containing personal data
 
 Datasets containing personal data, i.e. data, including non-nominative data, allowing the re-identification of natural persons, may not be disseminated by the Platform unless the persons concerned have given their consent or if a legal provision allows it.
 
@@ -110,7 +131,7 @@ The Contributor publishing the Dataset is responsible for the datasets he/she pu
 
 The Re-user of such data must comply with the legislation on the protection of personal data in force in its territory of residence and respect the relevant stipulations of the licence attached to such data.
 
-#### 2.4.3. Use of the Forum
+#### 2.6.3. Use of the Forum
 
 The messages published on the Forum by the Contributor are under his full and entire responsibility. This content is public and the Contributor must not publish information contrary to the rules of data protection of users. The Information and Press Service will not ensure a posteriori moderation of the data published by the Contributor. In order to implement this moderation, any user is invited to contact the Information and Press Service to report inappropriate content.
 
