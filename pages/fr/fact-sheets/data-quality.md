@@ -43,7 +43,7 @@ Exemple :
 
 Les données doivent être fournies dans des formats ouverts et réutilisables. Par exemple, le format PDF n'est pas considéré comme réutilisable car il ne permet pas une intégration directe dans des logiciels pour traitement ultérieur. Pour le Luxembourg, l'application de la famille de licences Creative Commons est fortement recommandée, avec une nette préférence pour la licence Creative Commons Zero CC0 : il s'agit de l'option "aucun droit d'auteur réservé" de la boîte à outils Creative Commons, qui signifie effectivement l'abandon de tous les droits d'auteur et droits similaires que vous détenez sur une œuvre et l'affectation de ces droits au domaine public.
 
-Pour en savoir plus, consultez notre [fiche d'information Open data sur l'usage de licences](https://data.public.lu/fr/pages/fact-sheets/licenses/) ( <https://data.public.lu/fr/pages/fact-sheets/licenses/> ).
+Pour en savoir plus, consultez notre [fiche d'information Open data sur l'usage de licences](https://data.public.lu/fr/pages/fact-sheets/licenses/).
 
 ![](https://data.public.lu/fr/pages/fact-sheets/data-quality-filters.png)
 
@@ -72,12 +72,10 @@ Impliquez-vous dans la relation avec les usagers, qu'il s'agisse de citoyens, d'
 
 En suivant ces lignes directrices, vous contribuerez à la création et à la maintenance de jeux de données de haute qualité sur data.public.lu. Des données bien préparées et documentées sont essentielles pour soutenir la recherche, l'innovation et la transparence au Luxembourg.
 
-Pour de plus amples informations n’hésitez pas à consulter le lien suivant : <https://data.public.lu/fr/pages/publishing/>
+Pour de plus amples informations n’hésitez pas à consulter les pages suivantes : 
 
-<https://data.public.lu/fr/pages/usage/>
-
-<https://data.public.lu/fr/pages/requesting/>
-
-<https://data.public.lu/fr/pages/strategy/>
-
-<https://data.public.lu/fr/pages/5yearplan/>
+- [Lignes directrices pour la publication de données ouvertes](https://data.public.lu/fr/pages/publishing/)
+- [Guide d'utilisation des données ouvertes](https://data.public.lu/fr/pages/usage/)
+- [Demande de réutilisation de données publiques](https://data.public.lu/fr/pages/requesting/)
+- [Stratégie de données ouvertes](https://data.public.lu/fr/pages/strategy/)
+- [Feuille de route pour l'open data](https://data.public.lu/fr/pages/5yearplan/)
