@@ -1,4 +1,4 @@
-# Fiches d'information Open data - Usage de licences
+# Fiche d'information Open data - Usage de licences
 
 ## C'est quoi une licence ?
 
