@@ -1,4 +1,4 @@
-# Notice d’information – Publication de qualité de jeux de données
+# Fiche d’information – Publication de qualité de jeux de données
 
 ## Introduction
 
@@ -8,7 +8,7 @@ La qualité des données est essentielle pour assurer leur utilité et leur impa
 
 ## Évaluer le niveau de qualité d’un jeu de données
 
-\= Nettoyer, structurer et formater les données pour garantir leur exactitude et leur utilité.
+= Nettoyer, structurer et formater les données pour garantir leur exactitude et leur utilité.
 
 - S’assurer que les données soient correctes
 - S’assurer que les jeux de données soient complets
@@ -22,7 +22,7 @@ Il s'agit de données collectées directement à la source, non agrégées, et f
 
 ## Préparer un jeu de données de qualité
 
-\= Fournir des descriptions détaillées, des métadonnées et des instructions d'utilisation pour rendre les données compréhensibles et faciles à utiliser.
+= Fournir des descriptions détaillées, des métadonnées et des instructions d'utilisation pour rendre les données compréhensibles et faciles à utiliser.
 
 Il s’agit de structurer les données :
 
@@ -53,7 +53,7 @@ Le format de la donnée :
 
 ## Améliorer la qualité d’un jeu de données en continu
 
-\= Mettre en place des processus de révision et de mise à jour réguliers pour maintenir la pertinence et l'exactitude des données.
+= Mettre en place des processus de révision et de mise à jour réguliers pour maintenir la pertinence et l'exactitude des données.
 
 - S’assurer que les données soient actualisées régulièrement
 
