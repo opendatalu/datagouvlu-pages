@@ -1,4 +1,4 @@
-Open data fact sheets - Use of licenses
+Open data fact sheet - Use of licenses
 =======================================
 
 What is a license?
