@@ -1,3 +1,3 @@
 # Fact sheets
 
-- [Use of licenses](./licenses.md)
+- [Use of licenses](./fact-sheets/licenses.md)
