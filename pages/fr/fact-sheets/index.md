@@ -1,4 +1,4 @@
 # Fiches d'information
 
-- [Usage de licences](./fact-sheets/licences.md)
-- [Publication de qualité de jeux de données](./fact-sheets/data-quality.md)
+- [Usage de licences](https://data.public.lu/fr/pages/fact-sheets/licenses/)
+- [Publication de qualité de jeux de données](https://data.public.lu/fr/pages/fact-sheets/data-quality/)
