@@ -42,7 +42,7 @@ Example:
 
 Data must be provided in open and reusable formats. For example, the PDF format is not considered reusable because it cannot be directly integrated into software for further processing. For Luxembourg, application of the Creative Commons family of licences is strongly recommended, with a clear preference for the Creative Commons Zero CC0 licence: this is the "no copyright reserved" option in the Creative Commons toolkit, which effectively means relinquishing all copyright and similar rights you hold in a work and assigning these rights to the public domain.
 
-To find out more, see our Open data fact sheet on using licences.
+To find out more, see our [Open data fact sheet on using licences](https://data.public.lu/en/pages/fact-sheets/licenses/).
 
 ![](https://data.public.lu/fr/pages/fact-sheets/data-quality-filters.png)
 
@@ -73,8 +73,8 @@ By following these guidelines, you will contribute to the creation and maintenan
 
 For more information, please consult the following pages:
 
-- Guidelines for publishing open data
-- Guide to using open data
-- Request for re-use of public data
-- Open data strategy
-- Open data roadmap
+- [Guidelines for publishing open data](https://data.public.lu/en/pages/publishing/)
+- [Guide to using open data](https://data.public.lu/en/pages/usage/)
+- [Request for re-use of public data](https://data.public.lu/en/pages/requesting/)
+- [Open data strategy](https://data.public.lu/en/pages/strategy/)
+- [Open data roadmap](https://data.public.lu/en/pages/5yearplan/)
