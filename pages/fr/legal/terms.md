@@ -96,7 +96,7 @@ Des données des usagers sont, sur base volontaire, récoltées aux seules fins 
 
 La durée de conservation de données est celle de la durée du sondage augmentée de quelques semaines pour l’exploitation statistiques des résultats.
 
-Ces sondages sont effectués directement sur le site d’un sous-traitant, notamment alchemer.eu de la société Alchemer LLC, établie aux Etats-Unis. Les données étant hébergées en Europe. Cette dernière est soumise aux mêmes obligations légales concernant la protection de données à caractère personnel dès lors que les sondages sont destinés ou effectués par des usagers depuis l’Union Européenne.
+Ces sondages sont effectués directement sur le site d’un sous-traitant, notamment www.alchemer.eu de la société Alchemer LLC, établie aux Etats-Unis. Les données étant hébergées en Europe. Cette dernière est soumise aux mêmes obligations légales concernant la protection de données à caractère personnel dès lors que les sondages sont destinés ou effectués par des usagers depuis l’Union Européenne.
 
 Les procédures de mise en œuvre de ces sondages sont telles qu’aucune donnée n’est de nature à identifier l’usager en personne. La combinaison de données d’identifiants techniques (adresse IP ou information sur le navigateur ou l’appareil de l’usager), et/ou celles de plusieurs sondages ne peuvent pas mener à cette identification par le sous-traitant opérant la plateforme.
 
