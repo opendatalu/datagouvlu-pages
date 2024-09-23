@@ -99,7 +99,7 @@ User data is collected on a voluntary basis for the sole purpose of conducting s
 
 The data is stored for the duration of the survey, plus a few weeks for statistical analysis of the results.
 
-These surveys are carried out directly on the site of a subcontractor, namely alchemer.eu from Alchemer LLC, based in the United States. The data is hosted in Europe. The latter is subject to the same legal obligations regarding the protection of personal data when surveys are intended for or carried out by users from the European Union.
+These surveys are carried out directly on the site of a subcontractor, namely www.alchemer.eu from Alchemer LLC, based in the United States. The data is hosted in Europe. The latter is subject to the same legal obligations regarding the protection of personal data when surveys are intended for or carried out by users from the European Union.
 
 The procedures for implementing these surveys are such that no data is of a nature to identify the user in person. The combination of technical identification data (IP address or information on the user's browser or device), and/or data from several surveys cannot lead to such identification by the subcontractor operating the platform.
 
