@@ -59,7 +59,6 @@ Les acteurs suivants ont été identifiés comme responsables des données HVD a
 
 ## Comment retrouver les données HVD sur le portail open data ?
 
-Vous pouvez vous rendre sur la [recherche des jeux de données](https://data.public.lu/fr/datasets/).
 Les données HVD sont identifiées par le mot clé « hvd » sur le portail open data national.
 
 Ce tag est complété par les mots clés suivants pour chacune des 6 thématiques :
@@ -71,5 +70,5 @@ Ce tag est complété par les mots clés suivants pour chacune des 6 thématique
 - Entreprises et propriété d'entreprises, companies
 - Mobilité, mobility
 
-La recherche par tags dans le portail va vous permettre de retrouver l’ensemble des données publiées.
+La [recherche par tags](https://data.public.lu/fr/datasets/) dans le portail va vous permettre de retrouver l’ensemble des données publiées.
 
