@@ -9,6 +9,7 @@ datasets:
   - tag#meteorology
   - tag#weather
   - tag#meteo
+  - tag#meteorologiques
 ---
 # Données météorologiques
 
