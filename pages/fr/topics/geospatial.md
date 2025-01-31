@@ -10,6 +10,7 @@ datasets:
   - tag#inspire
   - tag#cadastre
   - tag#topographie
+  - tag#geospatiales
 ---
 # Données géospatiales
 
