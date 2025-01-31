@@ -69,12 +69,12 @@ HVD data is identified by the "hvd" tag on the national open data portal.
 
 This tag is complemented by the following tags for each of the 6 themes:
 
-- Géospatiales, geospatial
-- Observation de la terre et environnement, environment
-- Statistiques, statistics
-- Météorologiques, meteorological
-- Entreprises et propriété d'entreprises, companies
-- Mobilité, mobility
+- geospatial
+- earth-observation-and-environment
+- statistics
+- meteorological
+- companies-and-company-ownership
+- mobility
 
 [Search the datasets by tags](https://data.public.lu/en/datasets/) to find all the data published.
 
