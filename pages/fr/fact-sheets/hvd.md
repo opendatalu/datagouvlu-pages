@@ -59,17 +59,17 @@ Les acteurs suivants ont été identifiés comme responsables des données HVD a
 
 ## Comment retrouver les données HVD sur le portail open data ?
 
-Les données HVD sont identifiées par le tag [« hvd »](https://data.public.lu/fr/datasets/?tag=hvd) sur le portail open data national.
+Vous pouvez vous rendre sur la [recherche des jeux de données](https://data.public.lu/fr/datasets/).
+Les données HVD sont identifiées par le mot clé « hvd » sur le portail open data national.
 
-Ce tag est complété par les tags suivants pour chacune des 6 thématiques :
+Ce tag est complété par les mots clés suivants pour chacune des 6 thématiques :
 
-- [Géospatiales](https://data.public.lu/fr/datasets/?tag=geospatiales), [geospatial](https://data.public.lu/en/datasets/?tag=geospatial)
-- [Observation de la terre et environnement](https://data.public.lu/fr/datasets/?tag=observation-de-la-terre-et-environnement), [environment](https://data.public.lu/en/datasets/?tag=environment)
-- [Statistiques](https://data.public.lu/fr/datasets/?tag=statistiques), [statistics](https://data.public.lu/en/datasets/?tag=statistics)
-- [Météorologiques](https://data.public.lu/fr/datasets/?tag=meteorologiques), [meteorological](https://data.public.lu/en/datasets/?tag=meteorological)
-- [Entreprises et propriété d'entreprises](https://data.public.lu/fr/datasets/?tag=entreprises-et-propriete-dentreprises), [companies](https://data.public.lu/en/datasets/?tag=companies)
-- [Mobilité](https://data.public.lu/fr/datasets/?tag=mobilite), [mobility](https://data.public.lu/en/datasets/?tag=mobility)
+- Géospatiales, geospatial
+- Observation de la terre et environnement, environment
+- Statistiques, statistics
+- Météorologiques, meteorological
+- Entreprises et propriété d'entreprises, companies
+- Mobilité, mobility
 
 La recherche par tags dans le portail va vous permettre de retrouver l’ensemble des données publiées.
 
-Note : la publication des données HVD va être effectuée progressivement, l’ensemble des données demandées par le règlement HVD ne sont pas encore disponibles en juin 2024.
