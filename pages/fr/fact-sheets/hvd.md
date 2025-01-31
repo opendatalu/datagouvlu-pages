@@ -69,12 +69,12 @@ Les données HVD sont identifiées par le mot clé « hvd » sur le portail open
 
 Ce tag est complété par les mots clés suivants pour chacune des 6 thématiques :
 
-- Géospatiales, geospatial
-- Observation de la terre et environnement, environment
-- Statistiques, statistics
-- Météorologiques, meteorological
-- Entreprises et propriété d'entreprises, companies
-- Mobilité, mobility
+- geospatiales
+- observation-de-la-terre-et-environnement
+- statistiques
+- meteorologiques
+- entreprises-et-propriete-dentreprises
+- mobilite
 
 La [recherche par tags](https://data.public.lu/fr/datasets/) dans le portail va vous permettre de retrouver l’ensemble des données publiées.
 
