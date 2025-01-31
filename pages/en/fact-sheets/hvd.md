@@ -59,18 +59,16 @@ The following players have been identified as responsible for HVD data at nation
 
 ## How can I find HVD data on the open data portal?
 
-HVD data is identified by the ["hvd"](https://data.public.lu/fr/datasets/?tag=hvd) tag on the national open data portal.
+HVD data is identified by the "hvd" tag on the national open data portal.
 
 This tag is complemented by the following tags for each of the 6 themes:
 
+- Géospatiales, geospatial
+- Observation de la terre et environnement, environment
+- Statistiques, statistics
+- Météorologiques, meteorological
+- Entreprises et propriété d'entreprises, companies
+- Mobilité, mobility
 
-- [Géospatiales](https://data.public.lu/fr/datasets/?tag=geospatiales), [geospatial](https://data.public.lu/en/datasets/?tag=geospatial)
-- [Observation de la terre et environnement](https://data.public.lu/fr/datasets/?tag=observation-de-la-terre-et-environnement), [environment](https://data.public.lu/en/datasets/?tag=environment)
-- [Statistiques](https://data.public.lu/fr/datasets/?tag=statistiques), [statistics](https://data.public.lu/en/datasets/?tag=statistics)
-- [Météorologiques](https://data.public.lu/fr/datasets/?tag=meteorologiques), [meteorological](https://data.public.lu/en/datasets/?tag=meteorological)
-- [Entreprises et propriété d'entreprises](https://data.public.lu/fr/datasets/?tag=entreprises-et-propriete-dentreprises), [companies](https://data.public.lu/en/datasets/?tag=companies)
-- [Mobilité](https://data.public.lu/fr/datasets/?tag=mobilite), [mobility](https://data.public.lu/en/datasets/?tag=mobility)
+[Search the datasets by tags](https://data.public.lu/en/datasets/) to find all the data published.
 
-Search the portal by tags to find all the data published.
-
-Note: HVD data will be published progressively, as all the data required by the HVD regulation will not yet be available in June 2024.
