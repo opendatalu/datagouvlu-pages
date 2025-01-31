@@ -12,7 +12,8 @@ datasets:
   - tag#environment
   - tag#geology
   - tag#protected-sites
-  - tag#biotope-network  
+  - tag#biotope-network
+  - tag#observation-de-la-terre-et-environnement  
 ---
 
 # Observation de la Terre et environnement
