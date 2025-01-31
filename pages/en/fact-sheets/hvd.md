@@ -57,7 +57,13 @@ The following players have been identified as responsible for HVD data at nation
 - Geospatial :
   - Reference plots and agricultural plots: ASTA
 
-## How can I find HVD data on the open data portal?
+## How can I find HVD data?
+
+### The HVD catalog
+
+All the HVD data are inventoried in the [HVD Catalog](https://catalog.inspire.geoportail.lu/geonetwork/hvd/eng/catalog.search#/home).
+
+### The Open data portal
 
 HVD data is identified by the "hvd" tag on the national open data portal.
 
