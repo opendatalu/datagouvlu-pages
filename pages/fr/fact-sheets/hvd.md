@@ -57,7 +57,13 @@ Les acteurs suivants ont été identifiés comme responsables des données HVD a
 - Géospatial :
   - Parcelles de référence et parcelles agricoles : ASTA
 
-## Comment retrouver les données HVD sur le portail open data ?
+## Comment retrouver les données HVD ?
+
+### Le catalogue HVD
+
+Toutes les données HVD sont recensées dans le [catalogue HVD](https://catalog.inspire.geoportail.lu/geonetwork/hvd/eng/catalog.search#/home).
+
+### Le portail open data
 
 Les données HVD sont identifiées par le mot clé « hvd » sur le portail open data national.
 
