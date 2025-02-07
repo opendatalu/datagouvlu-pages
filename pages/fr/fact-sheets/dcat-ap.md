@@ -67,8 +67,6 @@ Le portail open data luxembourgeois fournissant une API au format DCAT-AP, ses d
 
 Au moment d’écrire ces lignes, la dernière version de DCAT-AP est la version 3.0 (N’hésitez pas à vous référer à la [dernière version de DCAT-AP](https://github.com/SEMICeu/DCAT-AP/releases).) Nous vous recommandons de prendre connaissance du schéma de données de [DCAT-AP 3](https://semiceu.github.io/DCAT-AP/releases/3.0.0/#application-profile-diagram).
 
-Le graphique ci-dessous présente le schéma de données de DCAT-AP 3.0.
-
 Les principaux concepts sont les suivants :
 
 - **Dataset** : représente un jeu de données sur le portail open data. Un Dataset a notamment un titre, une description, un auteur, une licence, etc.
