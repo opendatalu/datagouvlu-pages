@@ -20,37 +20,37 @@ For example, you can query the open data portal catalog at this URL:
 
 <https://data.public.lu/catalog.rdf>
 
-If you are viewing this URL via your browser, feel free to view the page source code to view its content (for example, by right-clicking on the page and then "view page source code").
+If you are viewing this URL via your browser, feel free to view the page source code (for example, by right-clicking on the page and then "view page source").
 
-Via this web service, we can retrieve all the metadata of all the datasets present on data.public.lu. The data is not present there, only the URLs of the data are referenced there.
+Via this web service, we can retrieve all the metadata of all the datasets available on data.public.lu. The data is not present there, only the URLs of the data are referenced there.
 
-Here you can see that the metadata is structured in XML. DCAT-AP is based on RDF, which is an abstract model that has several serializations, that is, several concrete representations in specific computer languages , one of which is in XML. You can access the other serializations offered by the open data portal by changing the extension at the end of the URL. For example, you can use the extension . json to obtain a serialization in JSON-LD format, or . ttl or . nt for the textual formats Turtle or N-triples). For a list of available formats, you can consult the documentation of the [udata platform](https://udata.readthedocs.io/en/stable/rdf/) .
+Here you can see that the metadata is structured in XML. DCAT-AP is based on RDF, which is an abstract model that has several serializations, that is, several concrete representations in specific computer languages, one of which is in XML. You can access the other serializations offered by the open data portal by changing the extension at the end of the URL. For example, you can use the extension .json to obtain a serialization in JSON-LD format, or .ttl or .nt for the textual formats Turtle or N-triples). For a list of available formats, you can consult the documentation of the [udata platform](https://udata.readthedocs.io/en/stable/rdf/).
 
-This web service is paginated, it only renders the first 100 datasets by default . You can reach the other pages by using the parameters page, for the page number and page_size for the number of datasets per page. For example to display the 2nd page, you can query the following URL:
+This web service is paginated, it only renders the first 100 datasets by default. You can reach the other pages by using the parameters page, for the page number and page_size for the number of datasets per page. For example to display the 2nd page, you can query the following URL:
 
 [https://data.public.lu/api/1/site/catalog.rdf?page=2 & page_size=100](https://data.public.lu/api/1/site/catalog.rdf?page=2&page_size=100)
 
 Similarly, it is possible to obtain metadata for a particular dataset or all datasets related to a particular organization.
 
-an organization's dataset metadata , the URL is of the form:
+For the metadata of the datasets of a given organisation, the URL is of the form:
 
 [https://data.public.lu/api/1/organizations/{id}/catalog.rdf​](https://data.public.lu/api/1/organizations/%7bid%7d/catalog.rdf)
 
 where {id} is the identifier of an organization, which can be found in that organization's URL on the portal.
 
-For example : <https://data.public.lu/api/1/organizations/open-data-letzebuerg/catalog.rdf>
+For example: <https://data.public.lu/api/1/organizations/open-data-letzebuerg/catalog.rdf>
 
-For metadata of a single dataset , the URL is of the form:
+For metadata of a single dataset, the URL is of the form:
 
 [https://data.public.lu/api/1/datasets/{id}/rdf​](https://data.public.lu/api/1/datasets/%7bid%7d/rdf)
 
-where {id} is the dataset identifier , which can be found in its URL on the portal.
+where {id} is the dataset identifier, which can be found in its URL on the portal.
 
-For example : <https://data.public.lu/api/1/datasets/digital-accessibility-monitoring-report-2020-2021/rdf>
+For example: <https://data.public.lu/api/1/datasets/digital-accessibility-monitoring-report-2020-2021/rdf>
 
 ## Specific vocabulary: DCAT-AP
 
-[DCAT-AP](https://semiceu.github.io/DCAT-AP/releases/3.0.0/) (DCAT Application Profile for data portals in Europe) is a standard defined by [SEMIC](https://interoperable-europe.ec.europa.eu/collection/semic-support-centre) ( European SEMantic Interoperability Community) for metadata of open data portals. It is an extension of the [DCAT](https://www.w3.org/TR/vocab-dcat-3/) (Data Catalogue Vocabulary ) standard defined by the W3C.
+[DCAT-AP](https://semiceu.github.io/DCAT-AP/releases/3.0.0/) (DCAT Application Profile for data portals in Europe) is a standard defined by [SEMIC](https://interoperable-europe.ec.europa.eu/collection/semic-support-centre) (European SEMantic Interoperability Community) for metadata of open data portals. It is an extension of the [DCAT](https://www.w3.org/TR/vocab-dcat-3/) (Data Catalogue Vocabulary) standard defined by the W3C.
 
 ### The goals
 
@@ -66,9 +66,7 @@ The Luxembourg open data portal provides an API in DCAT-AP format, its data is f
 
 ### The diagram
 
-As of this writing, the latest version of DCAT-AP is version 3.0 (Feel free to refer to the [latest version of DCAT-AP](https://github.com/SEMICeu/DCAT-AP/releases) .) We recommend that you familiarize yourself with the [DCAT-AP 3 data schema](https://semiceu.github.io/DCAT-AP/releases/3.0.0/#application-profile-diagram) .
-
-The graph below shows the data schema of DCAT-AP 3.0.
+As of this writing, the latest version of DCAT-AP is version 3.0 (Feel free to refer to the [latest version of DCAT-AP](https://github.com/SEMICeu/DCAT-AP/releases).) We recommend that you familiarize yourself with the [DCAT-AP 3 data schema](https://semiceu.github.io/DCAT-AP/releases/3.0.0/#application-profile-diagram).
 
 The main concepts are:
 
@@ -80,7 +78,7 @@ DCAT-AP goes further than DCAT, as it specifies the mandatory, recommended or op
 
 ### Compatibility
 
-The main open source platforms for creating open data portals like [CKAN](https://ckan.org/) or [udata](https://udata.readthedocs.io) support the DCAT-AP standard. The same goes for geographic data portals like GeoNetwork .
+The main open source platforms for creating open data portals like [CKAN](https://ckan.org/) or [udata](https://udata.readthedocs.io) support the DCAT-AP standard. The same goes for geographic data portals like GeoNetwork.
 
 It is possible to check the compatibility of a DCAT-AP implementation using its validator:
 
@@ -92,10 +90,10 @@ The validation process and validator configuration are detailed in the DCAT-AP d
 
 DCAT-AP is an extensible format. Indeed, it is difficult to predict a priori a data schema that can meet all needs. Some extensions have been defined to complement DCAT-AP on specific use cases:
 
-- [StatDCAT -AP](https://joinup.ec.europa.eu/collection/semic-support-centre/solution/statdcat-application-profile-data-portals-europe) : for the field of statistics
-- [GeoDCAT -AP](https://semiceu.github.io/GeoDCAT-AP/releases/) : for geographic data
+- [StatDCAT -AP](https://joinup.ec.europa.eu/collection/semic-support-centre/solution/statdcat-application-profile-data-portals-europe): for the field of statistics
+- [GeoDCAT -AP](https://semiceu.github.io/GeoDCAT-AP/releases/): for geographic data
 
-Several European countries have created their own extension of DCAT-AP such as [Belgium](http://dcat.be/) or Germany [,](https://www.dcat-ap.de/) ...
+Several European countries have created their own extension of DCAT-AP such as [Belgium](http://dcat.be/) or Germany [,](https://www.dcat-ap.de/)...
 
 ## To wrap up
 
