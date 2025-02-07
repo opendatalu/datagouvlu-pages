@@ -93,7 +93,7 @@ DCAT-AP is an extensible format. Indeed, it is difficult to predict a priori a d
 - [StatDCAT -AP](https://joinup.ec.europa.eu/collection/semic-support-centre/solution/statdcat-application-profile-data-portals-europe): for the field of statistics
 - [GeoDCAT -AP](https://semiceu.github.io/GeoDCAT-AP/releases/): for geographic data
 
-Several European countries have created their own extension of DCAT-AP such as [Belgium](http://dcat.be/) or Germany [,](https://www.dcat-ap.de/)...
+Several European countries have created their own extension of DCAT-AP such as [Belgium](http://dcat.be/) or [Germany](https://www.dcat-ap.de/), ...
 
 ## To wrap up
 
