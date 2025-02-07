@@ -1,4 +1,4 @@
-# Fiche d’information : DCAT-AP, le standard pour les métadonnées DES Portails Open Data
+# Fiche d’information : DCAT-AP, le standard pour les métadonnées des Portails Open Data
 Le standard DCAT-AP permet la réutilisation des métadonnées des portails open data en Europe. Via ce standard, les principaux portails open data sont interopérables et peuvent de manière tout à fait automatisée échanger leurs métadonnées, les synchroniser, les fédérer. Ce standard permet de décrire les métadonnées des jeux de données publiés sur les portails open data.
 
 ## Données et métadonnées
