@@ -53,7 +53,7 @@ Nous détaillons tous ces points sur la page [Impact des données ouvertes – d
 
 En consultant [le blog du portail](/fr/posts/) vous pourrez vous inscrire aux différents évènements (Hackathons, conférences) organisés.
 
-Nous vous invitons par ailleurs à suivre notre compte Twitter [@OpenDataLu](https://twitter.com/opendatalu) (actualité de la plateforme, annonce de nouveaux jeux de données et de réutilisations).
+Nous vous invitons par ailleurs à suivre nos comptes de réseaux sociaux, tels que listés dans le pied de page de ce site web.
 
 L’équipe de cette plateforme est par ailleurs joignable par mail : info@data.public.lu.
 
