@@ -51,6 +51,11 @@ Nous détaillons tous ces points sur la page [Impact des données ouvertes – d
 
 ## Comment faire partie de la communauté data.public.lu ?
 
+
+Si vous créez des données originales, vous pouvez publier vos propres jeux de données. 
+Si vous avez traité les données d'un jeu de données, vous pouvez republier le résultat de votre traitement en tant que ressource communautaire sur ce jeu de données s'il s'agit de données. S'il s'agit d'une réutilisation des données, n'hésitez pas à publier une réutilisation.
+Pour toutes ces activités, vous avez juste besoin de vous créer un compte utilisateur sur data.public.lu.
+
 En consultant [le blog du portail](/fr/posts/) vous pourrez vous inscrire aux différents évènements (Hackathons, conférences) organisés.
 
 Nous vous invitons par ailleurs à suivre nos comptes de réseaux sociaux, tels que listés dans le pied de page de ce site web.
