@@ -57,3 +57,14 @@ Nous vous invitons par ailleurs à suivre notre compte Twitter [@OpenDataLu](htt
 
 L’équipe de cette plateforme est par ailleurs joignable par mail : info@data.public.lu.
 
+## Qu'est-ce qu'un jeu de données ?
+
+Un jeu de données est un ensemble de données auquel on a donné un nom, une description, et un ensemble de métadonnées, comme la date de dernière publication, la fréquence de publication ou encore la licence. Vous pouvez consulter à ce sujet nos [lignes directrices pour la publication de données ouvertes](https://data.public.lu/fr/pages/publishing/) et notre fiche d'information intitulée ["publication de qualité de jeux de données"](https://data.public.lu/fr/pages/fact-sheets/data-quality/). 
+
+## Qu'est-ce qu'une réutilisation ?
+
+Il n’existe pas de définition stricte du concept.
+Une définition large veut qu’une réutilisation désigne l’utilisation des données publiques par des tiers à d’autres fins que celle de la mission de service public pour laquelle les données ont été produites ou reçues.
+Cependant, il existe des approches plus restrictives. Certains considèrent par exemple que seuls les usages pérennes de la donnée sont des réutilisations tandis que d’autres considèrent tout usage de la donnée comme une réutilisation.
+Une réutilisation désigne communément l’exploitation de données ouvertes. Elle peut prendre la forme d’une visualisation, d’une application, d’un article de presse, d’un papier de recherche, etc.
+
