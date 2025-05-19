@@ -52,7 +52,7 @@ We review all these points on the page [Impact of Open data - definitions and re
 
 By consulting [the portal blog](/en/posts/) you can register for the various events (Hackathons, conferences) organised.
 
-We also invite you to follow our Twitter account [@OpenDataLu](https://twitter.com/opendatalu) (platform news, announcement of new datasets and reuses).
+We also invite you to follow our social networks accounts, as listed on the footer of this website.
 
 The platform team can also be reached by email: info@data.public.lu.
 
