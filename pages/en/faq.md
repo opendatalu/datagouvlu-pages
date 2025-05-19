@@ -50,6 +50,10 @@ We review all these points on the page [Impact of Open data - definitions and re
 
 ## How to become part of the data.public.lu community?
 
+If you create original data, you can publish your own datasets.
+If you have processed data from a dataset, you can republish the results of your processing as a community resource on that dataset. If it involves a reuse of the data, feel free to publish it as a reuse.
+For all these activities, you simply need to create a user account on data.public.lu.
+
 By consulting [the portal blog](/en/posts/) you can register for the various events (Hackathons, conferences) organised.
 
 We also invite you to follow our social networks accounts, as listed on the footer of this website.
