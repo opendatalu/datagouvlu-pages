@@ -55,3 +55,14 @@ By consulting [the portal blog](/en/posts/) you can register for the various eve
 We also invite you to follow our Twitter account [@OpenDataLu](https://twitter.com/opendatalu) (platform news, announcement of new datasets and reuses).
 
 The platform team can also be reached by email: info@data.public.lu.
+
+## What is a dataset?
+
+A dataset is a set of data that has been given a name, a description, and a set of metadata, such as the last publication date, the frequency of publication, and the license. You can consult our guidelines for publishing open data (https://data.public.lu/en/pages/publishing/) and our fact sheet entitled "Quality Publication of Datasets" (https://data.public.lu/en/pages/fact-sheets/data-quality/).
+
+## What is a reuse?
+
+There is no strict definition of the concept.
+A broad definition is that reuse refers to the use of public data by third parties for purposes other than the public service mission for which the data was produced or received.
+However, there are more restrictive approaches. For example, some consider only long-term uses of data to be reuse, while others consider any use of data to be reuse.
+Reuse commonly refers to the exploitation of open data. It can take the form of a visualization, an application, a press article, a research paper, etc.
