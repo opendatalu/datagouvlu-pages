@@ -10,7 +10,7 @@ datasets:
 
 ## Qu'est-ce que le projet Open Data?
 
-Le projet Open Data du gouvernement luxembourgeois a pour mission d’accompagner l’ouverture des données publiques de l’État et des administrations. À ce titre, elle met en oeuvre et anime la plateforme ouverte des données publiques data.public.lu qui héberge les jeux de données et recense leurs réutilisations.
+Le projet Open data du gouvernement luxembourgeois a pour mission d’accompagner l’ouverture des données publiques de l’État et des administrations. À ce titre, elle met en oeuvre et anime la plateforme ouverte des données publiques data.public.lu qui héberge les jeux de données et recense leurs réutilisations.
 
 ## Les données ouvertes, qu’est-ce que c’est ?
 
