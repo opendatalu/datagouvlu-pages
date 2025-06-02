@@ -73,3 +73,10 @@ Une définition large veut qu’une réutilisation désigne l’utilisation des 
 Cependant, il existe des approches plus restrictives. Certains considèrent par exemple que seuls les usages pérennes de la donnée sont des réutilisations tandis que d’autres considèrent tout usage de la donnée comme une réutilisation.
 Une réutilisation désigne communément l’exploitation de données ouvertes. Elle peut prendre la forme d’une visualisation, d’une application, d’un article de presse, d’un papier de recherche, etc.
 
+## Qu'est-ce qu'une organisation ?
+Lorsque vous publiez des données sur data.public.lu, vous le faites par défaut en votre nom propre. 
+Nous vous conseillons de créer une organisation ou de rejoindre une organisation existante si vous souhaitez :
+- publier des jeux de données pour le compte d’une organisation publique ou privée (administration, collectivité, association, entreprise, etc. );
+- permettre à des utilisateurs différents de publier et modifier des jeux de données sous le même nom, la même bannière.
+
+
