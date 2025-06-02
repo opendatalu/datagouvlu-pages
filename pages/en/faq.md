@@ -70,3 +70,9 @@ There is no strict definition of the concept.
 A broad definition is that reuse refers to the use of public data by third parties for purposes other than the public service mission for which the data was produced or received.
 However, there are more restrictive approaches. For example, some consider only long-term uses of data to be reuse, while others consider any use of data to be reuse.
 Reuse commonly refers to the exploitation of open data. It can take the form of a visualization, an application, a press article, a research paper, etc.
+
+## What is an organization?
+When you publish data on data.public.lu, you do so in your own name by default.
+We recommend creating an organization or joining an existing one if you wish to:
+- publish datasets on behalf of a public or private organization (administration, local authority, association, company, etc.);
+- allow different users to publish and modify datasets under the same name and banner.
