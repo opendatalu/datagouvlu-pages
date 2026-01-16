@@ -41,6 +41,9 @@ The best way is to use the comment function at the bottom of each dataset page. 
 ## The data I'm interested in is not available in a format that suits me - what can I do?
 You can use the comment function at the bottom of each dataset page to see if the producer of the data can provide the data also in the desired format. Eventually you can get help or instructions from the community on how to proceed with the available formats.
 
+## I would like to download all the files for a dataset or an organization. How can I do this?
+The command-line tool [udata-dl](https://github.com/opendatalu/udata-dl) allows you to perform this type of operation. Alternatively, you can use the [data.public.lu API](https://data.public.lu/en/docapi/) to retrieve the URLs of the files to download. Feel free to consult the [API tutorial](https://data.public.lu/en/pages/api-tutorial).
+
 ## I create data myself, can I also publish it on your portal? OR is the portal only for administrations? 
 Yes, you and your data are welcome. You can publish them and contribute to the Luxembourg open data ecosystem. However, don't forget to assign an open license to it, we recommend for any further reuse facility to use the [Creative Commons Zero (public domain)](https://creativecommons.org/publicdomain/zero/1.0/deed).
 
