@@ -41,6 +41,9 @@ Le mieux est d’utiliser la fonction de commentaire en bas de la page de chaque
 ## Les données qui m’intéressent ne sont pas disponibles dans un format qui me convient – que puis-je faire ?
 Vous pouvez utiliser la fonction de commentaire en bas de la page de chaque jeu de données pour voir si le producteur des données peut fournir les données également dans le format voulu. Eventuellement vous pouvez obtenir par la communauté une aide ou des instructions comment procéder avec les formats disponibles.
 
+## J'aimerais télécharger tous les fichiers d'un jeu de données ou d'une organisation, comment faire ?
+L'outil en ligne de commande [udata-dl](https://github.com/opendatalu/udata-dl) permet de faire ce type d'opération. Alternativement, il est possible d'utiliser l'[API de data.public.lu](https://data.public.lu/fr/docapi/) pour récuperer les URLs des fichiers à télécharger. N'hésitez pas à consulter le [tutoriel de l'API](https://data.public.lu/fr/pages/api-tutorial).
+
 ## Je crée des données moi-même, est-ce que je peux également les publier sur votre portail ? OU est-ce que le portail est réservé aux administrations ? 
 Oui, vous et vos données sont les bienvenues. Vous pouvez bien les publier et ainsi contribuer à l’écosystème des données ouvertes du Luxembourg. N’oubliez toutefois pas d’y attribuer une licence ouverte, nous préconisons pour toute facilité ultérieure de réutilisation d’utiliser la [Creative Commons Zero (domaine public)](https://creativecommons.org/publicdomain/zero/1.0/deed.fr).
 
