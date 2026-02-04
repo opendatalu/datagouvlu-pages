@@ -10,7 +10,7 @@ datasets:
 
 Tout jeu de données entrant dans le cadre de la [loi du 29 novembre 2021 sur l'Open data](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo) peut faire l'objet d'une demande de réutilisation s'il n'est pas encore publié et mis à disposition sous une licence ouverte.
 
-Le demandeur peut contacter directement l'administration concernée ou contacter l'équipe du portail open data à cette adresse : info@data.public.lu
+Le demandeur peut contacter directement l'administration concernée ou contacter l'équipe du portail open data via notre [formulaire de contact](https://data.public.lu/fr/contact-us/).
 
 Avant d'effectuer toute demande de réutilisation, n'hésitez pas à vérifier que les données que vous recherchez ne sont pas déjà disponibles sur le portail Open Data grâce à sa [fonction de recherche](/fr/datasets/).
 Une demande de réutilisation ne constitue pas une [demande d'accès à l'information](https://guichet.public.lu/fr/citoyens/citoyennete/archives-documents-administratifs/informations-detenues-institutions/communication-document-administrations.html).
