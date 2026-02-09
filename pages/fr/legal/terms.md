@@ -121,6 +121,8 @@ La Plateforme n’a pas vocation à diffuser des données publicitaires, de prom
 
 Les Contributeurs sont seuls responsables des données, métadonnées ou contenus qu’ils publient sur la Plateforme.
 
+La plateforme a vocation à héberger et diffuser des jeux de données présentant un lien direct avec le Luxembourg, notamment par leur origine, leur producteur, leur objet ou leur champ d’application. Les gestionnaires du portail se réservent le droit de retirer tout jeu de données ne répondant pas à ce périmètre.
+
 #### 2.6.2. Jeu de données contenant des données à caractère personnel
 
 Les Jeux de données contenant des données à caractère personnel, c’est-à-dire des données, y compris non nominatives, permettant la ré-identification de personnes physiques, ne peuvent pas être diffusés par la Plateforme sauf si les personnes concernées ont donné leur accord ou si une disposition légale le permet.
