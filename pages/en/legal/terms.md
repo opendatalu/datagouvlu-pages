@@ -123,6 +123,8 @@ The Platform is not intended to disseminate advertising data, promotion of priva
 
 Contributors are solely responsible for the data, metadata or content they publish on the Platform.
 
+The platform is designed to host and distribute datasets directly related to Luxembourg, particularly through their origin, producer, purpose, or scope. The portal administrators reserve the right to remove any dataset that does not meet these criteria.
+
 #### 2.6.2. Datasets containing personal data
 
 Datasets containing personal data, i.e. data, including non-nominative data, allowing the re-identification of natural persons, may not be disseminated by the Platform unless the persons concerned have given their consent or if a legal provision allows it.
