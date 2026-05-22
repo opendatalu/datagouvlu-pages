@@ -82,4 +82,19 @@ Nous vous conseillons de créer une organisation ou de rejoindre une organisatio
 - publier des jeux de données pour le compte d’une organisation publique ou privée (administration, collectivité, association, entreprise, etc. );
 - permettre à des utilisateurs différents de publier et modifier des jeux de données sous le même nom, la même bannière.
 
+## Quel est l'impact des données ouvertes et comment le mesurer ?
+L'impact des données ouvertes désigne les changements, les avantages et la valeur publique, tangibles et intangibles, générés par l'accès, la réutilisation et l'intégration active de données publiques lisibles par machine au sein de la société. Il ne s'agit pas simplement de la publication de données (un résultat), mais de la transformation mesurable qui s'opère en aval lorsque les entreprises, les chercheurs, les fonctionnaires et les citoyens transforment ces données en connaissances exploitables, en applications innovantes ou en gains d'efficacité structurelle.
+Mesurer l'impact des données ouvertes est complexe. Son évaluation repose sur le suivi des progrès réalisés selon trois dimensions macroéconomiques, à l'aide d'une combinaison de mesures quantitatives et d'études de cas qualitatives.
 
+1. Impact économique
+Mesure comment les données ouvertes agissent comme catalyseur de marché pour générer de la valeur financière et favoriser l'innovation commerciale.
+- Indicateurs macroéconomiques : Taille du marché du secteur des données ouvertes, nombre de startups s'appuyant sur les données ouvertes et emplois directs ou indirects créés.
+- Indicateurs microéconomiques : Économies réalisées par les entreprises utilisant des registres publics gratuits plutôt que des registres propriétaires et nouveaux modèles de revenus générés par l'intégration des données publiques.
+2. Impact gouvernemental
+Mesure comment l'optimisation des données améliore la transparence, la responsabilité et l'efficacité opérationnelle du secteur public.
+- Gains d'efficacité : Réduction des coûts administratifs internes ou du temps de traitement grâce à la réutilisation fluide des données par les organismes publics, évitant ainsi leur recréation.
+- Responsabilité et confiance : Engagement citoyen accru et augmentation du nombre d'articles de presse issus des audits de données publiques.
+3. Impact social et environnemental
+Mesure l'amélioration de la qualité de vie de la société civile et de la gestion des infrastructures publiques.
+- Utilité citoyenne : Taux d'adoption des outils destinés aux citoyens (ex. : applications de suivi des transports en commun ou capteurs de qualité de l'air localisés).
+- Indicateurs environnementaux : Réduction de l'empreinte carbone urbaine grâce à l'optimisation des itinéraires de circulation modélisés à partir de données de mobilité ouvertes.
