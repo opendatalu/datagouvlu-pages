@@ -93,3 +93,10 @@ La publication de données brutes en téléchargement de masse devrait être la 
 * D'autres personnes peuvent développer leurs propres services en utilisant les données, car elles ont la certitude que les données ne leur seront pas retirées.
 
 La fourniture de données en téléchargement de masse permet à d'autres d'utiliser les données au-delà de leur objectif initial. Par exemple, cela permet de les convertir dans un nouveau format, de les relier à d'autres ressources, ou de les versionner et de les archiver à plusieurs endroits. Si la dernière version des données peut être mise à disposition via une API, les données brutes doivent être mises à disposition en masse à intervalles réguliers.
+
+Pour de plus amples informations n’hésitez pas à consulter les pages suivantes :
+
+*    [Fiche d’information – Publication de qualité de jeux de données](/fr/pages/fact-sheets/data-quality/)
+*    [Stratégie de données ouvertes](/fr/pages/strategy)
+*    [Feuille de route pour l'open data](/fr/pages/5yearplan)
+
