@@ -93,3 +93,9 @@ Publishing raw data in bulk should be the primary concern of all open data initi
 *   Others can develop their own services using the data, because they have certainty that the data will not be taken away from them.
 
 Providing data in bulk allows others to use the data beyond its original purposes. For example, it allows it to be converted into a new format, linked with other resources, or versioned and archived in multiple places. While the latest version of the data may be made available via an API, raw data should be made available in bulk at regular intervals.
+
+For more information, please consult the following pages:
+
+* [Factsheet - Quality publication of datasets](/en/pages/data-quality)
+* [Open Data Strategy](/en/pages/strategy)
+* [Open Data Roadmap](/en/pages/5yearplan)
