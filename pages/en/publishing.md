@@ -96,6 +96,6 @@ Providing data in bulk allows others to use the data beyond its original purpose
 
 For more information, please consult the following pages:
 
-* [Factsheet - Quality publication of datasets](/en/pages/data-quality)
+* [Factsheet - Quality publication of datasets](/en/pages/fact-sheets/data-quality/)
 * [Open Data Strategy](/en/pages/strategy)
 * [Open Data Roadmap](/en/pages/5yearplan)
