@@ -6,7 +6,7 @@ Les Ensembles de Données de Forte Valeur (« High-Value Datasets » ou HVD) son
 
 Le [règlement (UE) 2023/138](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32023R0138&from=EN#d1e32-48-1) vient compléter la [directive (UE) 2019/2014](https://eur-lex.europa.eu/eli/dir/2019/1024/oj) sur les données ouvertes et la réutilisation des informations du secteur public, transposée en droit national dans la [loi du 29 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/29/a836/jo). Il établit un cadre pour l'identification, la publication et la réutilisation des HVD au sein de l'Union Européenne. Le règlement oblige les organismes du secteur public à rendre certains ensembles de données disponibles gratuitement, dans des formats lisibles par machine et via des API, afin de garantir leur large accessibilité et utilisabilité. Cette mesure vise à promouvoir la transparence, l'innovation et le développement économique en tirant parti de la puissance des données.
 
-## Les Six Catégories d'Données de forte valeur
+## Les Six Catégories de Données de forte valeur
 
 Le règlement (UE) 2023/138 classe les HVD en six catégories distinctes :
 
