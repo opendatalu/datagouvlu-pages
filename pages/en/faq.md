@@ -82,3 +82,13 @@ We recommend creating an organization or joining an existing one if you wish to:
 
 ## What is the impact of open data and how to measure it?
 You can consult the following article on this subject: [Impact of Open data - definitions and reflections in the framework of the Luxembourgish Open data project](/en/pages/impact).
+
+## How can I be notified of the publication of new datasets, new reuses, or their updates?
+
+We provide several RSS feeds that you can use with a [suitable RSS feed reader](https://en.wikipedia.org/wiki/Comparison_of_feed_aggregators).
+
+- [Latest datasets created](https://data.public.lu/en/datasets/recent.atom)
+- [Latest dataset updates](https://data.public.lu/en/activity.atom?key=dataset:updated)
+- [Latest reuses created](https://data.public.lu/en/reuses/recent.atom)
+- [Activity: recent operations performed on data.public.lu](https://data.public.lu/en/reuses/recent.atom)
+- [Latest articles in the "news" section](https://data.public.lu/en/posts/recent.atom)
