@@ -84,3 +84,13 @@ Nous vous conseillons de créer une organisation ou de rejoindre une organisatio
 
 ## Quel est l'impact des données ouvertes et comment le mesurer ?
 Vous pouvez consulter l'article suivant à ce sujet: [Impact des données ouvertes – définitions et réflexions dans le cadre du projet Open data luxembourgeois](/fr/pages/impact).
+
+## Comment être informé de la publication de nouveaux jeux de données, de nouvelles réutilisations ou de leurs mises à jour ?
+
+Nous mettons à disposition différents fils RSS que vous pouvez utiliser via un [lecteur de fil RSS approprié](https://en.wikipedia.org/wiki/Comparison_of_feed_aggregators).
+
+- [Derniers jeux de données créés](https://data.public.lu/en/datasets/recent.atom)
+- [Dernières mises à jour de jeux de données](https://data.public.lu/en/activity.atom?key=dataset:updated)
+- [Dernières réutilisations créées](https://data.public.lu/en/reuses/recent.atom)
+- [Activité: dernières opérations réalisées sur data.public.lu](https://data.public.lu/en/reuses/recent.atom)
+- [Derniers articles dans la section "actualités](https://data.public.lu/en/posts/recent.atom)
