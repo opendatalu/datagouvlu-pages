@@ -20,7 +20,7 @@ De son côté l'utilisateur doit également faire attention, vu qu'une licence c
 
 Je choisis la licence suivante :
 
-- [Creative Comons Zero – Transfert dans le domaine public (CC0) :](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) quand je veux céder tous les droits sur une œuvre.
+- [Creative Commons Zero – Transfert dans le domaine public (CC0) :](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) quand je veux céder tous les droits sur une œuvre.
 - [Creative Commons Attribution (CC BY)  :](https://creativecommons.org/licenses/by/3.0/lu/) quand je veux autoriser toute action avec l'œuvre, mais je veux que toute utilisation soit faite en précisant que j'en suis l'auteur (attribution).
 - [Creative Commons Attribution – Pas de modification (CC BY-ND) :](https://creativecommons.org/licenses/by-nd/3.0/lu/) comme la licence CC-BY, mais en plus j'interdis toute modification.
 - [Creative Commons Attribution – Partage dans les mêmes conditions (CC BY-SA) :](https://creativecommons.org/licenses/by-sa/3.0/lu/) comme la licence CC-BY, mais en plus je veux que tout produit dérivé soit republié sous la même licence.
